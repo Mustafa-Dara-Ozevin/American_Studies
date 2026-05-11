@@ -1,8 +1,9 @@
 ---
-title: "Artificial intelligence as functional trickster in cultural production"
+title: Artificial intelligence as functional trickster in cultural production
 tags:
   - ai
   - art
+  - culture
 ---
 
 # Artificial intelligence as functional trickster in cultural production

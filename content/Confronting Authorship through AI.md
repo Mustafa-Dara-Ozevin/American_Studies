@@ -1,8 +1,9 @@
 ---
-title: "Confronting Authorship through AI"
+title: Confronting Authorship through AI
 tags:
   - ai
   - art
+  - theatre
 ---
 
 Martin Crimp's "Not one of these people"

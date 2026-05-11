@@ -7,12 +7,13 @@ aliases:
 
   ---  
    
- # {{title}}  
+# {{title}}  
   
- ## Summary  
- *Briefly summarize the concept here.*  
-  ## Notes  
+## Summary  
+*Briefly summarize the concept here.*  
+## Notes  
     
 ---  
-**Related:**    
+
+### **Related:**    
 - [[Map of Content related to this]]

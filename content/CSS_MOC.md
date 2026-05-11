@@ -1,8 +1,10 @@
 ---
-title: "CSS MOC"
+title: CSS MOC
 tags:
   - ai
   - art
+  - MOC
+  - culture
 ---
 
 1. [[Confronting Authorship through AI]]

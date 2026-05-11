@@ -77,3 +77,9 @@ As early as 1942, American newspapers reported the "mass sluaghter" of Jews and 
 - Saving Private Ryan
 - A Beautiful Life
 - The Pianist
+
+
+---
+### Related:
+- [[World War 2 chapter 2]]
+- [[Interbellum in Europe]]
