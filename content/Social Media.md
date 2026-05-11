@@ -1,13 +1,15 @@
 ---
-title: '"{{title}}"'
+title: '"Social Media"'
 tags:
+  - culture
+  - techonlogy
 aliases:
   - "[]"
 ---
 
   ---  
    
- # {{title}}  
+ # Social Media  
   
  ## Summary  
  *Briefly summarize the concept here.*  

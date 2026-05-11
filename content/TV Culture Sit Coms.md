@@ -28,7 +28,7 @@ Domestic living space, where family met and bonded, had become integrated with t
 
 ### Affirmative Culture
 
-In late capitalist societies İndividuals are already completely integrated into the society. So function of the affirmative culture is to reinforce that traditional beliefs
+In late capitalist societies Individuals are already completely integrated into the society. So function of the affirmative culture is to reinforce that traditional beliefs
 
 
 ♯ Sit com as model as appropriate domesticity 
