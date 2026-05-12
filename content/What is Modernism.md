@@ -20,12 +20,12 @@ Main features:
 - Fragmentation:
 	- breaks in traditional narrative structure using non-linear it harder to understand and engage with
 	- Ulysses
-	- The waste land T.S. Elliot
+	- The waste land [[T.S. Eliot]]
 	- Violin and Candlestick - Georges Braque
 
 Alienation in Literature
 sign of personal dissatisfaction related to economic and political reasons
-- The magnificent Gatsby
+- [[The Great Gatsby]]
 	- social alienation
 	- self alienation
 	- Emotional Alienation

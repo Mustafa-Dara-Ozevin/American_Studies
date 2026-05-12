@@ -3,6 +3,21 @@ title: "Danny"
 tags:
   - history
   - american-history
+aliases:
+  - "[]"
 ---
 
-Begins getting influenced by hateful ideas much earlier than his brother [[Danny]]. 
+  ---  
+   
+# Danny  
+  
+## Summary  
+A character in American History X, Derek's younger brother, who becomes influenced by neo-Nazi ideologies.  
+## Notes  
+    
+---  
+
+### **Related:**    
+- [[American History X]]
+- [[Derek]]
+---

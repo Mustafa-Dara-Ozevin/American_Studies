@@ -5,7 +5,7 @@ tags:
   - literature
 ---
 
-A poem by [[Edgar Alan Poe]]
+A poem by [[Edgar Allan Poe]]
 
 Young scholar symbolically trapped in his past/unconsciousness. To forget the trauma of loss of his beautiful lover. 
 

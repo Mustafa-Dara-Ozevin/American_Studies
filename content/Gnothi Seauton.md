@@ -3,8 +3,20 @@ title: "Gnothi Seauton"
 tags:
   - poetry
   - literature
+aliases:
+  - "[]"
 ---
 
+  ---  
+   
+# Gnothi Seauton  
+ 
+## Summary  
+Greek for "Know Thyself," a poem by Ralph Waldo Emerson emphasizing self-reliance and introspection.  
+## Notes  
+    
+---  
 
-Poem by [[Emerson]]
-
+### **Related:**    
+- [[Poetry_MOC]]
+- [[Emerson]]
