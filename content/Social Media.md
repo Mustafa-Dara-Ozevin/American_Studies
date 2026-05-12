@@ -1,5 +1,5 @@
 ---
-title: '"Social Media"'
+title: Social Media
 tags:
   - culture
   - techonlogy

@@ -80,7 +80,7 @@ The increasing tensions around the world leads America to transiton to a softer 
 
 ## Italy and Germany
 
-- rise of japansese militarist paralled the rise of fascist dictators in italy and Germany
+- rise of Japanese militarist paralled the rise of fascist dictators in Italy and Germany
 - In 1922 Benito Mussolini had seized power in Italy. By 1925 he was wielding dictatorial power as Il Duce
 - Made Chancellor in Jan, 30 1940 Hitler swiftly won dictatorial powers
 - he aimed to unite all German Speakers
@@ -88,24 +88,24 @@ The increasing tensions around the world leads America to transiton to a softer 
 ## The Mood in America
 
 Absorbed by problems of the Depression American retreated more into isolationism during the early 1930's
-SU recongnition (Litvinov - Roosevelt meeting)
+SU recognition (Litvinov - Roosevelt meeting)
 
 ## The Expanding Axis
-- Hİtler violates the Versailles Treaty by occupying Rhineland with armed forces
+- Hitler violates the Versailles Treaty by occupying Rhineland with armed forces
 - Spanish civil war - Genç Francisco Franco established a fascist dictatorship with help from Hitler & Musollini
-- Sİno-Japanese war starts in 1937
+- Sino-Japanese war starts in 1937
 - Anti-Comintern Pact" 1937 established Rome-Berlin-Tokyo Axis
 - European Forces underestimated Hitler's ambitions, thinking he would stop at Rhineland
 
 ## Degrees o Neutrality 
 
-- 1935 Roosevelt signed the first of five formal neutrality laws; Forbading the sale of arms.
+- 1935 Roosevelt signed the first of five formal neutrality laws; Forbiding the sale of arms.
 - "I regret that congress passed the act", Roosevelt said "I also regret that I signed the act"
 - France and Britain could bypass the ban by sending ships to the US and buying arms with Cash
 
 ## The Storm in Europe
 
-- **Sitzkrieg (sitting war)** turns into **BlitzKrieg**
+- **Sitzkrieg (sitting war)** turns into **Blitzkrieg**
 
 
 ## Atlantic Charter

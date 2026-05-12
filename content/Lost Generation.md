@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: "Lost Generation"
 tags:
 aliases:
   - "[]"
@@ -7,7 +7,7 @@ aliases:
 
   ---  
    
-# {{title}}  
+# Lost Generation  
   
 ## Summary  
 *Briefly summarize the concept here.*  
@@ -16,4 +16,6 @@ aliases:
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Ernest Hemingway]]
+- [[F. Scott Fitzgerald]]
+- 

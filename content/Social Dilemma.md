@@ -1,5 +1,5 @@
 ---
-title: '"Social Dilemma"'
+title: Social Dilemma
 tags:
   - Film
   - culture
