@@ -1,7 +1,8 @@
 ---
-title: "Gertrude Stein and Verbal Cubism"
+title: Gertrude Stein and Verbal Cubism
 tags:
   - literature
+aliases:
 ---
 
 
