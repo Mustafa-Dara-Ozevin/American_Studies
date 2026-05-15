@@ -13,3 +13,4 @@ tags:
 5. [[Emerson]]
 6. [[Edgar Allan Poe]]
 7. [[Walt Whitman]]
+8. [[Emily Dickinson]]

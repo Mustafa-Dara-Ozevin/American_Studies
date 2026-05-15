@@ -1,9 +1,10 @@
 ---
-title: "Literature MOC"
+title: Literature MOC
 tags:
   - modernism
   - literature
   - ww1
+  - MOC
 ---
 
 
@@ -19,7 +20,7 @@ tags:
 10. [[Gertrude Stein's Stein's Poetry]]
 11. [[Gertrude Stein and Verbal Cubism]]
 12. [[In a station of the Metro]]
-13. [[Intro to Cubism Gertrude stein and literrary cubism]]
+13. [[Intro to Cubism Gertrude stein and literary cubism]]
 14. [[Politics after ww1]]
 15. [[Styles of Modernist Literature]]
 16. [[T.S. Eliot]]
@@ -30,9 +31,11 @@ tags:
 21. [[Themes of Modernist Literature]]
 22. [[What is Modernism]]
 23. [[Harlem Literature and identity]]
-24. [[Harlem Renaissance Cultural Ecxpression through music]]
+24. [[Harlem Renaissance Cultural Expression through music]]
 25. [[1950's us Sylvia Plath]]
 26. [[Langston Hughes]]
 27. [[Analyzing Hemingway Themes in his short stories]]
 28. [[The curious case of Benjamin Button]]
 29. [[Henry James]]
+30. [[Syvlia Plath's life and famous Works]]
+31. [[Syvlia Plath's Poems and Style]]

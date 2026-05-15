@@ -18,7 +18,11 @@ Richard Nixon was the 37th President of the United States, serving from 1969 unt
 * Nixon established the Environmental Protection Agency (EPA) and oversaw the Apollo 11 moon landing.
 * The Watergate scandal, involving a break-in at the Democratic National Committee headquarters, led to his resignation to avoid impeachment.
 * He remains the only U.S. president to have resigned from office.
-    
+
+### Crisis of Leadership & Watergate Scandal 
+- Interlocking political scandals of the administration of U.S. Pres. Richard M. Nixon that were revealed following the arrest of give burglars at DNC headquarters in the Watergate office-apartment-hotel complex in Washington D.C..
+- Facing likely impeachment for his role in covering up the scandal. Nixon became the only U.S. president to resign.
+
 ---  
 
 ### **Related:**   

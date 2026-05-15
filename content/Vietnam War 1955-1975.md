@@ -1,9 +1,11 @@
 ---
-title: "Vietnam's quest for independence"
+title: Vietnam's quest for independence
 tags:
   - vietnam
   - history
   - american-history
+aliases:
+  - Vietnam War
 ---
 
 - [ ] Khan Academy Vietnam war 

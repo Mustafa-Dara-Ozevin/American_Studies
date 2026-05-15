@@ -18,6 +18,6 @@ aliases:
 ### **Related:**    
 - [[Gertrude Stein's Stein's Poetry]]
 - [[Gertrude Stein and Verbal Cubism]]
-- [[Intro to Cubism Gertrude stein and literrary cubism]]
+- [[Intro to Cubism Gertrude stein and literary cubism]]
 - [[Modernism]]
 - [[Good Anna]]

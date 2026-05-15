@@ -13,9 +13,10 @@ tags:
 3. [[World War 2]]
 4. [[World War 2 chapter 2]]
 5. [[Korean War]]
-6. [[1945-1960 Murica at the Midcentury]]
+6. [[1945-1960 America at the Midcentury]]
 7. [[1960-1968 The tumultous sixties]]
 8. [[Vietnam War 1955-1975]]
+9. [[A Pivotal Area 1969-1980]]
 
 ## New Deal & Great Depression
 - [[F.D Roosevelt]]

@@ -79,7 +79,7 @@ JFK acknowledged that his regime with US support led Cuba to ruin. Backed Castro
 
 
 ## Civil Rights act of 1964
-[[LB Johnson]] 's memory more than this acttold the Congress that "Mo memorial or eulogy could honor president [[Kennedy]]"
+[[LB Johnson]]'s memory more than this acttold the Congress that "Mo memorial or eulogy could honor president [[Kennedy]]"
 
 - Outlawed racial discrimination in *all public accommodations* and authorized the Justice department with greater authority in *school or voting matters*
 - Prohibited *discriminatory hiring*

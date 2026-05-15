@@ -19,4 +19,4 @@ Swiss linguist whose ideas on structuralism laid the foundation for many develop
 
 ### **Related:**    
 - [[Philosophy_MOC]]
-- [[Intro to Cubism Gertrude stein and literrary cubism]]
+- [[Intro to Cubism Gertrude stein and literary cubism]]
