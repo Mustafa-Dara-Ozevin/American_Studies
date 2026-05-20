@@ -87,7 +87,7 @@ Believed one must imcomprate multiple theories to his play.
 	"A man with one theory is lost, He need several of them, four, lots."
 The term most used by bretch for his theories was "Epic theatre"
 - **Historisierung** examining a given social system from the standpoint of a scoial system from another period 
-- Rejected the Aristotle's distinction between epic and tragic poetry, stressing the importance of narrative in his conception of drama as episodic narrative
+- Rejected the [[Aristotle]]'s distinction between epic and tragic poetry, stressing the importance of narrative in his conception of drama as episodic narrative
 
 Reveal the conditions which people lives in but not in a naturalist sense. It was on the contrary to illustrate Marxist dialectic. **"Social being determines thought but human is alterable and able to alter"**
 

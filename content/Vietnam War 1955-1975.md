@@ -46,15 +46,15 @@ Vietnam veterans against the war founded in 1967
 	- resulted in US being seen as a colonial power and lose it's popularity among Vietnamese people 
 
 
-## Geneva Accords on Vietnam
+## [[Geneva Accords]] on Vietnam
 
 - Signed between France and Ho's Democratic Republic of Vietnam
 - Divided country on the 17th parallel. Ho's government on the north and Bao Dai in the south
 - 17th parallel line would be a military truce line not a country border
 - Civilians free to pass
 - CIA teams entered Vietnam and undertook secret operations against the North
-- United States helped ==[Ngo Dinh Diem]== push Bao Dai and inaugurate Republic of Vietnam.
-- [Ngo Dinh Diem] staged a rigged coup in which he recieved 99% of the vote
+- United States helped [[Ngo Dinh Diem]] push Bao Dai and inaugurate Republic of Vietnam.
+- [[Ngo Dinh Diem]] staged a rigged coup in which he recieved 99% of the vote
 - Ho asked for national election according to Geneva accords but Diem and Eisenhower refused
 - South became increasingly Americanized
 - ==Vietcong==/National Liberation Front: Guerrillas that fought against Southern Government in the South
@@ -76,13 +76,13 @@ Vietnam veterans against the war founded in 1967
 [[LB Johnson]]:
 - Was unsure on Vietnam yet also sought victory 
 
-### Tonkin Gulf incident
+### [[Tonkin Gulf incident]]
 
 - American patrol ships in the Gulf of Tonkin "Attacked", [[LB Johnson]] ordered retaliatory strikes
 - Gulf Of Tonkin Resolution
 - Operation rolling thunder
 
-### Tet offensive 1968
+### [[Tet offensive 1968]]
 - Vietcong and Vietnamese forces attack all across South Vietnam
 - Province capitals, Presidential palace, American Embassy all was briefly captured by Vietcongs
 - Vietnamese new year (Tet)
@@ -106,4 +106,3 @@ Doves vs Hawks
 * Congress passed the ==War Powers Act== president could not commit american troops abroad for more than 60 days
 * Soon both sides violated the agreement and civil war broke out. South government collapsed, Vietnam was united a communist government and unified
 
-Loooosing it

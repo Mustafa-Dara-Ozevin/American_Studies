@@ -15,3 +15,4 @@ tags:
 9. [[Çin Odası]]
 10. [[Dil Felsefesi]]
 11. [[Çeviri]]
+12. [[Modern Ontoloji]]

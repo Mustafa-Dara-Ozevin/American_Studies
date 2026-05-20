@@ -27,24 +27,24 @@ White American Middle Class grow rapidly.
 ## New American Dream 
 
 - After Depression and WW II, 30 years of hardship Society sought comfort and easy life:
-- - Centered on Family
+-  Centered on Family
 - New level of Material Comfort and consumption
 - Shared sense of belonging to a common culture
 Keywords:
-- Conformism
-- Consumerism
-- Conservatism
+- [[Conformism]]
+- [[Consumerism]]
+- [[Conservatism]]
 
 ## Politics during 50's
 
 
-|                     Consensus & Eisenhower                      |                The decline of McCarthyism                | Eisenhower-Dulles Policy and the Cold War |    Intervention in the third world     | Election of 1960's & the Eisenhower record |
-| :-------------------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------: | :------------------------------------: | :----------------------------------------: |
-|                    Conservative confornmism                     |             A pimple on the path of progress              |               Domino Effect               | Counties cast off their colonial bonds |             Eisenhower legacy              |
-| The uncritical and unquestioning aceeptance of America as it is | Quiite strategy like Julius & Rosenberg execution in 1953 |            Massive retaliation            |       Neutralism vs Partisanship       |                  Kennedy:                  |
-|                                                                 |                                                           |               Brinkmanship                |          Racism as a handicap          |                                            |
-|                                                                 |                                                           |                                           |       Inteloronce to revolotiun        |                                            |
-|                                                                 |                                                           |                                           |           Eisenhower policy            |                                            |
+|                     Consensus & Eisenhower                      |                  The decline of McCarthyism                  | Eisenhower-Dulles Policy and the Cold War |    Intervention in the third world     | Election of 1960's & the Eisenhower record |
+| :-------------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------: | :------------------------------------: | :----------------------------------------: |
+|                    Conservative confornmism                     |               A pimple on the path of progress               |               Domino Effect               | Counties cast off their colonial bonds |             Eisenhower legacy              |
+| The uncritical and unquestioning aceeptance of America as it is | Quite strategy like [[Julius & Rosenberg]] execution in 1953 |            Massive retaliation            |       Neutralism vs Partisanship       |                  Kennedy:                  |
+|                                                                 |                                                              |               Brinkmanship                |          Racism as a handicap          |                                            |
+|                                                                 |                                                              |                                           |       Inteloronce to revolotiun        |                                            |
+|                                                                 |                                                              |                                           |           Eisenhower policy            |                                            |
 
 ## Shaping the Postwar America
 
@@ -54,7 +54,7 @@ Keywords:
 
 Then day after the Allied victory over Japan, 1.8 million people nationwide received pink slips, and 640000 filled for unemployment compensation
 
-==GI Bill== provided them with House loans and Educations
+[[GI Bill]] provided them with House loans and Educations
 
 ---
 
@@ -63,7 +63,7 @@ Then day after the Allied victory over Japan, 1.8 million people nationwide rece
 ### Postwar Booms: Business & babies
 - From deprivation and sacrifice in the last decade to unprecedented prosperity 
 - The Expectation of unending plenty became the reigning assumption of social thought in the 2 decades after 1945
-- More babies and more food created more demand
+- [[Baby Boom]] => More babies and more food created more demand 
 - ![[Pasted image 20260410100122.png]]
 - years after WW II longest sustained economic extensions in the history of the U.S.
 	- GNP and GDP per capita increased dramatically
@@ -87,9 +87,9 @@ Then day after the Allied victory over Japan, 1.8 million people nationwide rece
 
 ### White America 
 
-| The Affluent Society                                                                                                                                                                                     | The Growth Suburbs & the ideals of Motherhood & the Family                                   |
+| The [[Affluent Society]]                                                                                                                                                                                 | The Growth Suburbs & the ideals of Motherhood & the Family                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| In the affluent postwar years, they satisfied their deferred desired.                                                                                                                                    | - Levittown                                                                                  |
+| In the affluent postwar years, they satisfied their deferred desires.                                                                                                                                    | - Levittown                                                                                  |
 | Take most people, they are always about cars, how many miles a gallon they get. and if they get a brand new car they are already thinking about getting a new one that is even newer. - Holden Caulfield | Ticky-Tacky  - Marked by lack of style or good taste                                         |
 |                                                                                                                                                                                                          | Was the postwar American Society becoming too complacent, too conformist, too materialistic? |
 ### The Other America
@@ -100,11 +100,11 @@ In 1962 about 42.5 millions of American Were Poor
 ### Black America
 
 - ==The Awakened Civil Rights Movement==: The white hegemony was depersonalized in the North. Master become the system
-- ===Brown vs Board of Education of Topeka 1954=== => Segregation in schools declared illegal 
-- ===Crisis in the Little Rock, Arkansas 1957=== => The students were prevented from entering racially segregated school by Arkansas Governor. Eisenhower will send the army to escort the kids  
-- ==Montgomery Bus Boycott 1955== => Rosa Park, Freedom Riders. African American refused to use the bus system for 13 months, walking miles every day. City tried harassment tactics to end the boycott but was unsuccessful, Bus segregation was ruled by Supreme Court at the end
-- ==MLK Jr== => 26 year old Baptist with recent PhD from Boston University. Loved Gandhi's teaching and believed in Civil Disobedience 
-- ==The Sit-Ins==
+- [[Brown vs Board of Education of Topeka 1954]] => Segregation in schools declared illegal 
+- [[Crisis in the Little Rock, Arkansas 1957]] => The students were prevented from entering racially segregated school by Arkansas Governor. Eisenhower will send the army to escort the kids  
+- [[Montgomery Bus Boycott 1955]] => Rosa Park, Freedom Riders. African American refused to use the bus system for 13 months, walking miles every day. City tried harassment tactics to end the boycott but was unsuccessful, Bus segregation was ruled by Supreme Court at the end
+- [[MLK Jr]] => 26 year old Baptist with recent PhD from Boston University. Loved Gandhi's teaching and believed in Civil Disobedience 
+- [[The Sit-Ins]] => SNCC(*Student Nonviolent Coordinating Comitee*)
 - Invisible Man, Native Son = > African American Literature
 ---
 
@@ -112,10 +112,10 @@ In 1962 about 42.5 millions of American Were Poor
 
 American were frightened by Cold war tensions, however this fear spilled into unreasonable witch-hunts. Suppressing civil liberties and prosecuting innocent civilians
 
-### McCarthyism 
+### [[McCarthyism]] 
 
 1. The most successful and frightening redbaiter the country ever had
-2. ==Hiss Trial== => State department Alger Hiss tried and executed for espionage 
+2. [[Hiss Trial]] => State department Alger Hiss tried and executed for espionage 
 3. ==Attack on State Department === => Claimed that "State department is thoroughly infested with communist"
 ---
 
@@ -123,10 +123,10 @@ American were frightened by Cold war tensions, however this fear spilled into un
 
 ### Middle Class America at Play
 
-- ==TV enters American Homes== => in 1953 television ownership was %53 and 90% in 1960. Taught Americans how the middle class should live.Helped to create a homogenius white middle class culture
+- ==TV enters American Homes== => in 1953 television ownership was %53 and 90% in 1960. Taught Americans how the middle class should live.Helped to create a homogeneous white middle class culture
 - Youth Subculture
 - Rock'n' Roll
-- Beat Generation:
+- [[Beat Generation]]:
 	- A. Ginsberg: Supermarket in California, America
 	- J. Kerouac On the Road
 	- A. Miller: A death of a Salesman, Crucible

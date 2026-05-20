@@ -58,3 +58,4 @@ struggle for supremacy between words, music and production
 Related:
 - [[Modernism]]
 - [[The Caucasian Chalk Circle]]
+- [[Aristotle]]
