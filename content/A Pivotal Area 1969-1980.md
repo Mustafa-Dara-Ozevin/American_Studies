@@ -56,17 +56,17 @@ The rights gained:
 
 
 ### [[Nixon]], [[Kissinger]] and the World
-- Nixon Doctrine:
+- [[Nixon Doctrine]]:
 	- Us would continue to provide financial aid to allies in Asia and elsewhere but they should not count on US troops
-- Detente:
+- [[Detente]]:
 	- Measured cooperation with Soviets. Comes from the French word for "relaxation"
 	- The major aim was the check soviet expansion and limit the soviet arms buildup. 
 	- Control the revolutions in the third world
 
-### Crisis of Leadership & Watergate Scandal 
+### Crisis of Leadership & [[Watergate Scandal]] 
 - Interlocking political scandals of the administration of U.S. Pres. Richard M. Nixon that were revealed following the arrest of give burglars at DNC headquarters in the Watergate office-apartment-hotel complex in Washington D.C..
 - Facing likely impeachment for his role in covering up the scandal. Nixon became the only U.S. president to resign.
-- The Watergate Scandal shook the confidence of American netizens in the their government. 
+- The [[Watergate Scandal]] shook the confidence of American netizens in the their government. 
 - I also prompted Congress to reevaluate the balance of power between executive and legislative branches:
 	- War Powers Act
 	- Budget and Impoundment control act 
@@ -75,10 +75,10 @@ The rights gained:
 - Pardoning [[Nixon]] tanked his popularity 
 - Often made fun in magazines and in SNL(Saturday Night Live)
 
-### Carter as "Outsider" President
+### [[Jimmy Carter|Carter]] as "Outsider" President
 
 - I will never live to you
-- Carter Faces: 
+- [[Jimmy Carter|Carter]] Faces: 
 	- Declining economy
 	- Energy Shrtages
 	- Americans' Dİstrust
@@ -92,4 +92,4 @@ The rights gained:
 ### **Related:**    
 - [[Vietnam War 1955-1975]]
 - [[Nixon]]
-- [[TV Culture and Politics SNL and Daily Show]]
+- [[TV Culture and Politics SNL and Daily Show]]and Daily Show]]

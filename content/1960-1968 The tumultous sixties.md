@@ -34,13 +34,13 @@ The First televised Debate which was between ===[[Kennedy]] and Nixon=== was a d
 The leader of Cuba from 1940-44 and 52-59
 
 JFK acknowledged that his regime with US support led Cuba to ruin. Backed Castro's statement against Batista and said US should pay for it.
-### Bay of Pigs
+### [[Bay of Pigs]]
 
 - 1400 exiles
 - April 1961
 - Cuban exiles would Land at the bay of Ping and secure a beachhead; The Cuban people would rise against Castro; a revolutionary council organized in the US would enter Havana in Triumph => *Failed catastrophically* 
 
-### Cuban Missile Crisis
+### [[Cuban Missile Crisis]]
 
 - Embraced by failure in Bay of Pigs [[Kennedy]] vowed to bring down Castro.
 - CIA had many failed assassination attempts
@@ -50,7 +50,7 @@ JFK acknowledged that his regime with US support led Cuba to ruin. Backed Castro
 - A coded wire-telegraph "**Hot line**" between capitals allowing near instant communication 
 
 
-## New Frontier
+## [[The New Frontier]]
 
 - Promised more than Kennedy Could deliver:
 	- And end to racial discrimination
@@ -60,26 +60,26 @@ JFK acknowledged that his regime with US support led Cuba to ruin. Backed Castro
 - Lacked the ability to move the Congress
 
 
-## Kennedy & Civil Rights movement
+## Kennedy & [[Civil Rights Movement]] (movement)
 
 - *NAACP* remained committed to overturning the legal basis for segregation
 	- *SLCL*(Southern Christian Leadership Conference) was an organization of southern black clergy formed in the wake of the buss boycott in Alabama 
 	- The student nonviolent coordinating Committee was organized in 1960 and was more militant than other groups
 - Confrontations continued in 1960s:
-	- *Sit in* in Bressnsboro, north Carolina spread to other cities
+	- [[The Sit-Ins]] in Bressnsboro, north Carolina spread to other cities
 	- Sit in gave rise to *freedom riders*, organised by CORE and aided by SNCC, aimed at *testing southern transportation* facilities that had been recently been desegregated 
 	- Many Whites joined the movement
-- Civil Rights movement accelerated in 1962 when James Meredith applied to all white university and Supreme Court affirmed his right to attend despite State's objections
+- [[Civil Rights Movement]] (movement) accelerated in 1962 when James Meredith applied to all white university and Supreme Court affirmed his right to attend despite State's objections
 - in 1963 Alabama became a national focus as southern official reacted violently to peaceful civil rights protests and television viewers were horrified by the violence
 - Kennedy did little though he did issue a executive order, in 1962, ending segregation in federally financed housing
-- During James Meredith he sent federal troops to restore order and gurantee Meredith's right to attend the university 
+- During James Meredith he sent federal troops to restore order and guarantee Meredith's right to attend the university 
 - Finally spoke out in national television calling the quest for the equal rights *"Moral issue"*
 - Hours after Kennedy Spoke civil rights activist Medgar Evars was **murdered**
 - Kennedy sent the Congress a strong civil rights bill but was *unable to pass it*, his vice president Johnson passed it after his assassination.
 
 
 ## Civil Rights act of 1964
-[[LB Johnson]]'s memory more than this acttold the Congress that "Mo memorial or eulogy could honor president [[Kennedy]]"
+[[LB Johnson]]'s memory more than this act told the Congress that "Mo memorial or eulogy could honor president [[Kennedy]]"
 
 - Outlawed racial discrimination in *all public accommodations* and authorized the Justice department with greater authority in *school or voting matters*
 - Prohibited *discriminatory hiring*
@@ -88,13 +88,13 @@ Voting rights act of 1965
 
 
 
-### King vs Malcom X
+### King vs [[Malcolm X|Malcom X]]
 
-> If someone puts a hand on you, send them to cemetery - Malcom X
+> If someone puts a hand on you, send them to cemetery - [[Malcolm X|Malcom X]]
 
-Malcom X channeled black frustration into a new set of goals and tactics:
+[[Malcolm X|Malcom X]] channeled black frustration into a new set of goals and tactics:
 - White man was responsible for Black mans condition and black man had to help himself
-- Impatient with Moderate civil rights movement and pushed for black separatism and nationalism, argued for black control of black communities. Appealed to black to fight racism "By an means necessary"
+- Impatient with Moderate [[Civil Rights Movement]] and pushed for black separatism and nationalism, argued for black control of black communities. Appealed to black to fight racism "By an means necessary"
 - Stokey Carmicheal became head of SNCC and challenged MLK in 1966. Saying it was time do more than being arrested and take direct action
 - Black Power was a call to built independent institutions in the African American community 
 - Black Panthers militant group
@@ -106,13 +106,23 @@ Eastern Mysticism, Nirvana
 
 # The Rebirth of Feminism
 
-- The feminine Mystique
+- [[The Feminine Mystique]]
 - I tried everything woman are supposed to do but I am desperate. I begin to fell that I have no personality. ===...Who am I?=== 
 - Equal job opportunity and equal pay for equal work 
-- 1972 - ERA
+- 1972 - [[ERA]]
 
 
 ### Moon Landing 
+
+	
+
+
+anding 
+
+	
+
+
+anding 
 
 	
 

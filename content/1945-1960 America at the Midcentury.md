@@ -20,7 +20,7 @@ tags:
 ---
 
 
-Consumerism => Government encouraged spending as much as possible to grow the economy especially during the **Great Depression**. This belief will continue into 50's.
+[[Consumerism]] => Government encouraged spending as much as possible to grow the economy especially during the **Great Depression**. This belief will continue into 50's.
 
 White American Middle Class grow rapidly.
 
@@ -50,7 +50,7 @@ Keywords:
 
 - America faced many challenges at the end of WW II. The nation had integrate war veterans into the society. Transform wartime economy to peacetime functions
 
-### The veterans Return & The GI Bill
+### The veterans Return & The [[GI Bill]]
 
 Then day after the Allied victory over Japan, 1.8 million people nationwide received pink slips, and 640000 filled for unemployment compensation
 
@@ -71,7 +71,7 @@ Then day after the Allied victory over Japan, 1.8 million people nationwide rece
 - The Automobile industry played a ley role in the expansion:
 	- Millions of cars were quickly produced
 	- Development of a massive interstate highway system -> interstate Highway act of 1956
-- Housing boom, fueled by the 1944 GI Bill, further encouraged growth with housing ownership reaching 62% in 1962
+- Housing boom, fueled by the 1944 [[GI Bill]], further encouraged growth with housing ownership reaching 62% in 1962
 - Government's increasingly active economic role both stimulated and sustained expansion
 	- Businesses could buy new factories for less than what they cost to built
 	- Defense spending stayed high
@@ -99,7 +99,7 @@ In 1962 about 42.5 millions of American Were Poor
 
 ### Black America
 
-- ==The Awakened Civil Rights Movement==: The white hegemony was depersonalized in the North. Master become the system
+- ==The Awakened [[Civil Rights Movement]]==: The white hegemony was depersonalized in the North. Master become the system
 - [[Brown vs Board of Education of Topeka 1954]] => Segregation in schools declared illegal 
 - [[Crisis in the Little Rock, Arkansas 1957]] => The students were prevented from entering racially segregated school by Arkansas Governor. Eisenhower will send the army to escort the kids  
 - [[Montgomery Bus Boycott 1955]] => Rosa Park, Freedom Riders. African American refused to use the bus system for 13 months, walking miles every day. City tried harassment tactics to end the boycott but was unsuccessful, Bus segregation was ruled by Supreme Court at the end

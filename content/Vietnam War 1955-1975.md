@@ -55,7 +55,7 @@ Vietnam veterans against the war founded in 1967
 - CIA teams entered Vietnam and undertook secret operations against the North
 - United States helped [[Ngo Dinh Diem]] push Bao Dai and inaugurate Republic of Vietnam.
 - [[Ngo Dinh Diem]] staged a rigged coup in which he recieved 99% of the vote
-- Ho asked for national election according to Geneva accords but Diem and Eisenhower refused
+- Ho asked for national election according to [[Geneva Accords]] but Diem and Eisenhower refused
 - South became increasingly Americanized
 - ==Vietcong==/National Liberation Front: Guerrillas that fought against Southern Government in the South
 
@@ -94,15 +94,17 @@ Doves vs Hawks
 # End of Vietnam war
 
 
-[[Nixon]] Doctrine: The US would help those nations that helped themselves 
+[[Nixon Doctrine]]: The US would help those nations that helped themselves 
 - The doctine reflected officials Washington's realization that it could no longer afford to sustain so many overseas commitments
 - Pentagon Papers
 
-### Ceasefire agreement in Paris Jan. 23, 1973
+### [[Paris Peace Agreement]] (Ceasefire agreement in Paris Jan. 23, 1973)
 
 * Kissinger & Le Duc Tho signed a ceasefire agreement
 * The US promised to withdraw
 * Coalition government to be formed in the south
 * Congress passed the ==War Powers Act== president could not commit american troops abroad for more than 60 days
 * Soon both sides violated the agreement and civil war broke out. South government collapsed, Vietnam was united a communist government and unified
+
+
 

@@ -12,5 +12,5 @@ Passed the civil rights bill [[Kennedy]] couldn't
 Loved for his domestic policy criticized for Foreign one
 
 
-### Great Society 
+### [[The Great Society|Great Society]] 
 Lyndon Johnson had an expansive vision of the possibilities of reform.

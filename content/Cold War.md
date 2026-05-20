@@ -114,7 +114,7 @@ Raul Castro & Che Guevera
 Castro was determined to break the economic power of of American Businesses in Cuba
 
 
-## Arab-İsraeli conflict 
+## Arab-Israeli conflict 
 
 - Post WW2 conccern with the particular region
 - 1947 the UN decided tp divite the land into Arab and Jewish states
@@ -125,14 +125,14 @@ Castro was determined to break the economic power of of American Businesses in C
 - Oil interest and speheres of influence
 
 
-## Suez Crisis
+## [[Suez Crisis]]
 Egyptian president Nasser nationalized the Suez canal as a reaction to British and France refusing to finance the Aswan dam they promised to finance.
 France,Britain, Tel Aviv launched an invasion of Suez canal 
 Eisenhower furious about not being consulted about the war and distracting the world from Soviet intervention in Hungary 
 France, Britain, Tel Aviv pulled out, Soviet Union built the Dam 
 
 
-## Eisenhower Doctrine 
+## [[Eisenhower Doctrine]] 
 
 1947
 the US would intervene in the middle east if any government threatened by a communist takeover asked for help 

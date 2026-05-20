@@ -6,7 +6,7 @@ tags:
 ---
 
 
-North Korea (soviet backed dictator) vs South korea (U backed dictators)
+North Korea (soviet backed dictator) vs South Korea (U backed dictators)
 Both are threatening to unite the country by force
 Stalin gives go ahead to North Korea:
 - Establishment of NATO
@@ -28,7 +28,7 @@ Target:
 - Stop and roll back communism 
 
 Consequences:
-- Election of Eisenhower
+- Election of [[Eisenhower]]
 - Growth of Presidential powers
 - Debates between parties 
 - impact on foreign policy 
