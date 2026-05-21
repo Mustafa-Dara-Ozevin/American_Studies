@@ -7,7 +7,7 @@ aliases:
 
   ---  
   
-# Syvlia Plath's life and famous Works  
+# Sylvia Plath's life and famous Works  
   
 ## Summary  
 Sylvia Plath remain one of the most influential today 

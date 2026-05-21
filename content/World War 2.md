@@ -53,8 +53,8 @@ tags:
 - 90 million of 132 million population went to cinema every week in 1944. 
 
 ## The Limits of American Ideals
-Roosevelt ordered that all 112,000 foreign born japanse and japanese-american living in California, Oregon and the state of Washington be removed from the west Coast to "relocation centers" for the duration of the war.
-They were improsined as a group, under suspicion solely because they were of Japanese descent.
+Roosevelt ordered that all 112,000 foreign born Japanese and Lapanese-american living in California, Oregon and the state of Washington be removed from the west Coast to "relocation centers" for the duration of the war.
+They were imprisoned as a group, under suspicion solely because they were of Japanese descent.
 
 First, second and third generation Japanese citizens had to sell their property valued at $500 million for fraction of value.
 
