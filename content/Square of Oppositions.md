@@ -25,5 +25,10 @@ aliases:
     
 ---  
 
+|            | Affirmative | Negative |
+| ---------- | ----------- | -------- |
+| Universal  | F           | T        |
+| Particular | F           | T        |
+
 ### **Related:**    
 - [[Categorical Proposition]]

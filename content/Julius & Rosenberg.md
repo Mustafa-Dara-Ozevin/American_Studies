@@ -12,7 +12,9 @@ aliases:
 ## Summary  
 *Briefly summarize the concept here.*  
 ## Notes  
-strategy like [[Julius & Rosenberg]] execution in 1953
+[[Julius & Rosenberg]] execution in 1953
+- accused to atomic espionage
+- 
     
 ---  
 

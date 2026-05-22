@@ -12,7 +12,7 @@ aliases:
 ## Summary  
 *Briefly summarize the concept here.*  
 ## Notes  
-- [[The Sit-Ins]]
+- SNCC(*Student Nonviolent Coordinating Comitee*)
     
 ---  
 

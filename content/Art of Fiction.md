@@ -18,7 +18,7 @@ Turn of the Screw
 
 1- The topic is the entirely Author's choice without restriction.
 2- Conscious artistry and treatment of the object is the key
-3- Organic structure is important 
+3- Organic *structure* is **important** 
 
 
 Fin de cycle = end/turn of century

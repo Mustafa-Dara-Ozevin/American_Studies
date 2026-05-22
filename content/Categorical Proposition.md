@@ -25,6 +25,7 @@ Categorical propositions makes up large sum of all propositions. it contains 2 t
 	* ~~All Frogs are green~~ => All frogs are green *things* 
 	* ~~There is no pink spider~~ => *No spider* is pink *things*
 	* ~~A family that plays together stays together~~ => All families that play together are things that stays together
+	* ~~All cakes are not bitter~~ => No cakes are bitter
 	* ~~Blessed are the weak~~ => Weak things/The weak are blessed things
 * *Subject*(S) is the category of things that is proposition is about, *Predicate*(P) is the property of that subject
 * 

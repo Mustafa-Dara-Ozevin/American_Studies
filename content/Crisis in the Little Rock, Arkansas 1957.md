@@ -12,7 +12,10 @@ aliases:
 ## Summary  
 *Briefly summarize the concept here.*  
 ## Notes  
-- [[Crisis in the Little Rock, Arkansas 1957]]
+- Segregation in schools declared illegal 
+- 9 students barred from attending a segregated school
+- [[Nixon]] sends National guard to protect them
+- 
     
 ---  
 
