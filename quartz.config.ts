@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Amerika'nın Tarihi Yok Ki(!?)",
+    pageTitleSuffix: ": {{title}}",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -40,11 +40,11 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#19181b",
-          lightgray: "#393639",
+          light: "#1b303b",
+          lightgray: "#203a47",
           gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
+          darkgray: "#ffd9fe",
+          dark: "#fde2fc",
           secondary: "#e4674c",
           tertiary: "#55c8ab",
           highlight: "rgba(255, 122, 235, 0.38)",
