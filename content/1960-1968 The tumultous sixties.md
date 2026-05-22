@@ -116,14 +116,6 @@ Eastern Mysticism, Nirvana
 
 	
 
-
-anding 
-
-	
-
-
-anding 
-
 	
 
 

@@ -66,7 +66,7 @@ The rights gained:
 ### Crisis of Leadership & [[Watergate Scandal]] 
 - Interlocking political scandals of the administration of U.S. Pres. Richard M. Nixon that were revealed following the arrest of give burglars at DNC headquarters in the Watergate office-apartment-hotel complex in Washington D.C..
 - Facing likely impeachment for his role in covering up the scandal. Nixon became the only U.S. president to resign.
-- The [[Watergate Scandal]] shook the confidence of American netizens in the their government. 
+- The [[Watergate Scandal]] shook the confidence of American citizens in the their government. 
 - I also prompted Congress to reevaluate the balance of power between executive and legislative branches:
 	- War Powers Act
 	- Budget and Impoundment control act 
@@ -77,13 +77,45 @@ The rights gained:
 
 ### [[Jimmy Carter|Carter]] as "Outsider" President
 
-- I will never live to you
+- "I will never lie to you"
 - [[Jimmy Carter|Carter]] Faces: 
 	- Declining economy
-	- Energy Shrtages
-	- Americans' Dİstrust
+	- Energy Shortages
+	- Americans' Distrust
 	- **Stagflation**
+
+### Environmentalism 
+- Major Oil Spill (1969)
+- [[Arab Oil Embargo]] (1970)
+- Chernobyl (1979)
+- Questioning the morality of technology and scarcity of natural resources
+
+### Religion and Therapeutic culture
+- Traditional churches lost members 
+- Fundamentalist and Evangelic churches grew
+- Evangelics claimed and personal and immediate relationship with their Savior
+- [[Zen Buddhism, psychodelic expreinces]] 
+### [[Iranian Hostage Crisis]]
+- Shah driven from the throne by a coalition of Iranians 
+- Under the leadership of the Ayatollah Khoemini they proclaimed a Shi'te Islamic Republic
+- Shah escaped to the US 
+- Mobs stormed the Us embassy in Tehran and took American personnel Hostage. Demanding the returning of Shah to stand trial
+- [[Jimmy Carter]] froze Iranian assets and broke diplomatic relations
+- Failed Rescue mission leads to death of 8 US soldiers
+### [[Arab Oil Embargo]]
+- Arab-Israeli Six-Day War 1967
+- 1973 on the Jewish high holy Day on Yom Kippur, Egypt and Syria attacked Israel
+- In order to punish US for pro-Israel policies OPEC embargoed oil shipments to the US
+- [[Jimmy Carter]] manager to meditate a peace treaty between Israel and an Arab nation called [[Camp David Accords]]
+
+### [[Soviet Invasion of Afghanistan]]
+- ==Carter Doctrine==: Asserted that the US would intervene, unilaterally and military if Soviet aggression threatens the petroleum-rich Persian Gulf
+- Remote mountainous country that had a strategically significant location
+- Fulcrum of the *Great Game* => The contest between Great Britain and Russia for the control of Central Asia and India
+- Red Army entered the country to help the faltered communist government against Muslim rebels
+- [[Jimmy Carter]] stopped grain and high technology shipments to USSR also authorized the CIA to distribute aid to rebelling **Mujaheddin** 
 - 
+
 
 💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕
 
@@ -92,4 +124,4 @@ The rights gained:
 ### **Related:**    
 - [[Vietnam War 1955-1975]]
 - [[Nixon]]
-- [[TV Culture and Politics SNL and Daily Show]]and Daily Show]]
+- [[TV Culture and Politics SNL and Daily Show]]
