@@ -55,7 +55,62 @@ Radical separation of elements:
 struggle for supremacy between words, music and production
 
 
-Related:
+
+
+| Dramatic Theatre                                               | Epic Theatre                                               |
+| -------------------------------------------------------------- | ---------------------------------------------------------- |
+| Action                                                         | Narration                                                  |
+| Involves spectators in events on stage consumes their activity | Turns spectators into observers but awakens their activity |
+| Enables them to have feelings, expreience                      | Forces them to make decisions world-picture                |
+| The spectetors are immersed in something                       | They are put in opposition to it                           |
+| suggestibility                                                 | argument                                                   |
+| emotions are preserved                                         | are turned to insights                                     |
+| The spectator stands right in the middle                       | the spectators stands on the opposite side                 |
+| shares the exprerience                                         | studies                                                    |
+| human nature presumed to be common knowledge                   | is object of  investigation                                |
+| humanking unchangeable                                         | changable                                                  |
+| thension at the outcome                                        | tension as you go                                          |
+| one scene for the next                                         | each scene for itself                                      |
+| growth                                                         | montage                                                    |
+| structure of events is linear                                  | curved                                                     |
+| evolutionary inevitability                                     | Human nature as a process                                  |
+| though determines being                                        | social being determines thought                            |
+| feeling                                                        | rationalithy                                               |
+against Gesamtkunwerk
+
+### music
+
+| Dramatic Opera                       | Epic Opera                  |
+| ------------------------------------ | --------------------------- |
+| Action                               | Narration                   |
+| Music serves up                      | Communicates                |
+| intensifies libertto                 | interpreting libretto       |
+| reinforcing                          | taking the libretto as read |
+| illustrating                         | taking a position           |
+| painting the pyschological situation | presenting behavior         |
+
+### Libretto 
+fashion something instructive and direct from the fun so that it would not simply be irrational. Libretto must not be sentimental or moral but to display sentimentality and morality.
+
+### Set design
+Aimed to free the audience from the conformity of the theatre
+
+## Theater for Pleasure or Theater for Instruction
+
+- *Drama*: More central plot, mutual dependency of the parts, a certain passion of utterance, emphasis on the clash of forces
+- *Epic*: Can be cut into separate pieces that all remain viable 
+- In dramatic theater we see the other events from the pov of the main character not as a independent events. 
+- The stage began to tell a story: Actors not completely immersed in the roles. ==inviting criticism to the characters they play==
+- The spectator no longer allowed in any way to submit to an experience 
+- Stage became instructive
+- not only ==instruction but amusement==
+- Is epic theater a "moralistic institution"?
+	- Brecht argues Epic Theater's goal was not to moralize but to study
+	- Not in the terms of morality but in the terms of morality
+- expository character and emphasis on virtuosity is related to ancient Asian theater
+- Can't be performed everywhere
+
+- Related:
 - [[Modernism]]
 - [[The Caucasian Chalk Circle]]
 - [[Aristotle]]

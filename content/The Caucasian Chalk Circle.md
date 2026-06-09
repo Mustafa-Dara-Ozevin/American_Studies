@@ -4,7 +4,11 @@ tags:
   - theatre
   - literature
 ---
+Explores what happens hen the law conflicts with justice and asks questions about who is right and wrong in the complicated situations
 
+
+*Location*: Grusiana
+Characters 
 
 ## Scene 6
 at the beginning of the scene. the siner again announces that the famous Chalk circle test will e held. Before the trial start, Simon shows up and volunteers to claim that he is the father of the child. Natella, on the other hand seem to still have her ignorant attitude
