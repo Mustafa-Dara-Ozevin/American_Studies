@@ -39,7 +39,7 @@ The play opens at Christmas time. The introduction reveals many fact about the f
 - Nora feels Mrs Linde just like the others does not take her serious
 - Nora secretly took a loan behind Helmer's back. She claimed her father gave the money however she actually forged his signature to barrow money from Mr. Krogstad.
 - Working, making money => almost like being a man
-- Dr Rank has sexually transmitted which he inherited at birth. He will have a short life span because of this. Hereditary aspect of Realism/naturalism.
+- Dr Rank has sexually transmitted which he inherited at birth. He will have a short life span because of this. Hereditary aspect of Naturalism.
 - Good intentions vs rule of law: one of the main conflicts of the play
 - Nora thinks Helmer will try to sacrifice himself for her and be grateful fto her but Helmer's reaction is complete opposite. 
 - Helmer proclaiming "I am saved" upon receiving the second letter causes Nora to realize her love isn't reciprocated 
