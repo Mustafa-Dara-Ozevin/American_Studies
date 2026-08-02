@@ -23,7 +23,7 @@ Art and Nature comes from same spirit, Their essence is one.
 
 ### Beauty 
 
-The standart of beauty is the entire circuit of Natural Forms -- The totality of Nature. Nothing is quite beautiful alone, nothing but is beautiful in the whole. Art is the nature passed through alembic of man. 
+The standard of beauty is the entire circuit of Natural Forms -- The totality of Nature. Nothing is quite beautiful alone, nothing but is beautiful in the whole. Art is the nature passed through alembic of man. 
 
 ### Spirit
 

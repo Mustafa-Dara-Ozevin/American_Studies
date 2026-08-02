@@ -30,7 +30,7 @@ Vietnam veterans against the war founded in 1967
 
 ![[Pasted image 20260424094739.png]]
 
-- Gulf of Tonkin attack on Madax key event in the war 
+- Gulf of Tonkin attack on Madox key event in the war 
 - Cambodia and Laos also in the war. Realization they are not only in the war with the Vietnam will be a shock for the US population
 - Questions about necessity and legitimacy of a war so far away from the US soil
 - Soldier average age is a lot younger than WW II
@@ -54,7 +54,7 @@ Vietnam veterans against the war founded in 1967
 - Civilians free to pass
 - CIA teams entered Vietnam and undertook secret operations against the North
 - United States helped [[Ngo Dinh Diem]] push Bao Dai and inaugurate Republic of Vietnam.
-- [[Ngo Dinh Diem]] staged a rigged coup in which he recieved 99% of the vote
+- [[Ngo Dinh Diem]] staged a rigged election in which he recieved 99% of the vote
 - Ho asked for national election according to [[Geneva Accords]] but Diem and Eisenhower refused
 - South became increasingly Americanized
 - ==Vietcong==/National Liberation Front: Guerrillas that fought against Southern Government in the South

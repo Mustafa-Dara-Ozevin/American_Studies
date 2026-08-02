@@ -8,8 +8,25 @@ Explores what happens hen the law conflicts with justice and asks questions abou
 
 
 *Location*: Grusiana
-Characters 
+Characters:
+	1. Singer (Arkadi Tsheide)
+	2. Grusha
+	3. Simon
+	4. Azdak
+	5. Shauva
+	6. Natella Abashwili
 
+
+Prlogoue: Play-within-a-play, state the main idea before the real play even starts
+
+
+*Circles*: Melding the ideas of travel and circularity, Characters travels back to where there was but nothing stays as it was.
+
+Influenced from biblical story of King Solomon and anon chinese play Chalk circle:
+1. *King Solomon*: 2 women both claim to be the mother of a baby boy. Solomon sends a swords and says that they can cut the baby in half and each can have their half. False mother agrees, Solomon finds the real mother. 
+2. *The Chalk Circle*:
+
+Property vs Labor => Labor wins 
 ## Scene 6
 at the beginning of the scene. the siner again announces that the famous Chalk circle test will e held. Before the trial start, Simon shows up and volunteers to claim that he is the father of the child. Natella, on the other hand seem to still have her ignorant attitude
 

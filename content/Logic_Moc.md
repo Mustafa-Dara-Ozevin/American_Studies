@@ -1,3 +1,6 @@
 1. [[Philosophy_MOC]]
 2. [[Categorical Proposition]]
 3. [[Square of Oppositions]]
+4. [[Categorical Syllogism]]
+5. [[Validity of Categorical Syllogism]]
+6. [[Categorical Syllogism Venn Diagrams]]
