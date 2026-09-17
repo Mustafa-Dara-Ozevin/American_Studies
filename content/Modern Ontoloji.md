@@ -31,7 +31,7 @@ Zaman Felsefenin en çetrefilli konulardan biridir. Zamandan bağımsız bir do�
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Philosophy_MOC]]
 
 
 

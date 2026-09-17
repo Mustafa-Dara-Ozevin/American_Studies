@@ -5,7 +5,6 @@ tags:
   - literature
 ---
 
-
 Political Theater
 
 Gestalt Principles = Consciousness is founded on filling the gaps based on assumptions
@@ -28,7 +27,6 @@ Dramas include:
 2 important theories:
 - Oragnum for theatre
 - Messingkauf Dialougues
-
 
 Was a devoted Marxist but unlike other leftist who thurned to realsim he found the social realistic form outdated. He believed it inspired inertia rather than action.
 Art for art = puerlille Indulgence
@@ -55,8 +53,6 @@ Radical separation of elements:
 struggle for supremacy between words, music and production
 
 
-
-
 | Dramatic Theatre                                               | Epic Theatre                                               |
 | -------------------------------------------------------------- | ---------------------------------------------------------- |
 | Action                                                         | Narration                                                  |
@@ -77,8 +73,7 @@ struggle for supremacy between words, music and production
 | though determines being                                        | social being determines thought                            |
 | feeling                                                        | rationalithy                                               |
 against Gesamtkunwerk
-
-### music
+### Music
 
 | Dramatic Opera                       | Epic Opera                  |
 | ------------------------------------ | --------------------------- |

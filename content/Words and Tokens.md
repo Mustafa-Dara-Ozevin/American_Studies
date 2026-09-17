@@ -59,4 +59,4 @@ looked at the stars.
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[NLP_MOC]]

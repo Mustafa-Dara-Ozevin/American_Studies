@@ -4,3 +4,5 @@
 4. [[Categorical Syllogism]]
 5. [[Validity of Categorical Syllogism]]
 6. [[Categorical Syllogism Venn Diagrams]]
+7. [[Existential Import]]
+8. [[Disjunctive Propositions and Syllogisms]]

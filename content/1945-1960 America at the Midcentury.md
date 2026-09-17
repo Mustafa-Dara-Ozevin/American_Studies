@@ -7,7 +7,6 @@ tags:
   - american-history
 ---
 
-
 - Pop art
 - Conservative mood in the movies -> suburban nuclear family. Alienation form society and each other
 - Catcher in the Rye - important novel for the 1950's psychological and societal issues
@@ -15,7 +14,7 @@ tags:
 ### Questions
 - [ ] How did the **Cold War** affect American Society and Politics?
 - [ ] How did federal government actions following the **WW II** change the nation?
-- [ ] During the 1950's, many people began tot think of their country as a **middle-class nation**. Were they correct? 
+- [ ] During the 1950's, many people began to think of their country as a **middle-class nation**. Were they correct? 
 
 ---
 

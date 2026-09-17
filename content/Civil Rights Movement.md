@@ -17,4 +17,5 @@ The movement for civil rights in the United States, especially during the 1950s 
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[1945-1960 America at the Midcentury]]
+-
