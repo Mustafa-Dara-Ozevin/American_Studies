@@ -19,3 +19,4 @@ tags:
 13. [[İlkçağ_MOC]]
 14. [[Regions_MOC]]
 15. [[Global_Politics_MOC]]
+16. [[Sembolik_mantık_MOC]]
