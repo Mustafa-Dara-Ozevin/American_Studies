@@ -7,3 +7,9 @@ aliases:
 ___
 
 1. [[Sembolik Mantık Giriş]]
+
+
+
+Kitaplar:
+- [ ] Graham Priest - Mantık
+- [ ] 
