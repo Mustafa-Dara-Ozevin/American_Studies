@@ -4,7 +4,7 @@ tags:
   - philosophy
   - history
 aliases:
-  - "[]"
+  - Ancient philosophy Int
 ---
 
   ---  

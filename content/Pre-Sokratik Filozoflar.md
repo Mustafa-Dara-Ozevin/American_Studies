@@ -3,7 +3,7 @@ title: Pre-Sokratik Filozoflar
 tags:
   - philosophy
 aliases:
-  - "[]"
+  - pre-socratic philosophy
 ---
   ---  
    

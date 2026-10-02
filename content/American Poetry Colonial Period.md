@@ -1,8 +1,8 @@
 ---
-title: "Colonial Period"
+title: Colonial Period
 tags:
 aliases:
-  - "[]"
+  - Puritan Culture
 ---
 
   ---  
