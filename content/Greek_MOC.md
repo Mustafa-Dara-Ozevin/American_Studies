@@ -10,7 +10,7 @@ tags:
 3. [[ödev]]
 4. [[Sınav sonrası]]
 5. [[Tekrar]]
-6. [[Untitled|Untitled]]
+6. [[Rhetoric 1|Untitled]]
 7. [[Yunanca]]
 8. [[Ελληνικα]]
 9. [[Επαγγελμα]]
