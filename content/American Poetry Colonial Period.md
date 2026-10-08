@@ -32,6 +32,8 @@ aliases:
 *Authors*:
 - [[Anna Bradstreet]]
 - [[Edward Taylor]]
+- [[Jonathan Edwards]]
+- 
     
 ---  
 

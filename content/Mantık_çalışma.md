@@ -18,23 +18,23 @@
 	1. p Aristotle was a great philosopher
 	2. s Aristotle was a great scientist
 	3. => ~p ^ ~s
-5.  j, t, B |= k
+5.  j, t, b |= k
 
-| j t b k | j t K | ~k  |
-| ------- | ----- | --- |
-| D D D D |       |     |
-| D D D Y |       |     |
-| D D Y D |       |     |
-| D D Y Y |       |     |
-| D Y D D |       |     |
-| D Y D Y |       |     |
-| D Y Y D |       |     |
-| D Y Y Y |       |     |
-| Y D D D |       |     |
-| Y D D Y |       |     |
-| Y D Y D |       |     |
-| Y D Y Y |       |     |
-| Y Y D D |       |     |
-| Y Y D Y |       |     |
-| Y Y Y D |       |     |
-| Y Y Y Y |       |     |
+| j t b k | j   | t     | b   | ~k  |
+| ------- | --- | ----- | --- | --- |
+| D D D D | D   | D     | D   | Y   |
+| D D D Y | *D* | *D*   | *D* | *D* |
+| D D Y D | D   | D     | Y   | Y   |
+| D D Y Y | D   | D     | Y   | D   |
+| D Y D D | D   | Y     | D   | Y   |
+| D Y D Y | D   | Y     | D   | D   |
+| D Y Y D | D   | Y     | Y   | Y   |
+| D Y Y Y | D   | Y     | Y   | D   |
+| Y D D D | Y   | D     | D   | Y   |
+| Y D D Y | Y   | D     | D   | D   |
+| Y D Y D | Y   | D     | Y   | Y   |
+| Y D Y Y | Y   | D     | Y   | D   |
+| Y Y D D | Y   | Y     | D   | Y   |
+| Y Y D Y | Y   | Y<br> | D   | D   |
+| Y Y Y D | Y   | Y     | Y   | Y   |
+| Y Y Y Y | Y   | Y     | Y   | D   |
