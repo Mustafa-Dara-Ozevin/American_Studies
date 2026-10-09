@@ -30,12 +30,13 @@ aliases:
 - Conceit, Acrostics, refined, eloquent language
 
 *Authors*:
-- [[Anna Bradstreet]]
-- [[Edward Taylor]]
-- [[Jonathan Edwards]]
+-
 - 
     
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+ * [[Anna Bradstreet]]
+ - [[Edward Taylor]]
+ - [[Jonathan Edwards]]
+ - [[American_Poetry_MOC]]

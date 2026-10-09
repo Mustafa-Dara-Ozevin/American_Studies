@@ -55,4 +55,4 @@ Desire -> Thought -> Choice -> Action
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Creative_Fiction_MOC]]

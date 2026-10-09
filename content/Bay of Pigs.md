@@ -21,4 +21,6 @@ aliases:
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Kennedy]]
+- [[Cuban Missile Crisis]]
+- [[1960-1968 The tumultous sixties]]

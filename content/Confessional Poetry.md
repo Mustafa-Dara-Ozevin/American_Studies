@@ -28,4 +28,4 @@ Poets own life is main topic. Honest, emotional tone
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Literature_MOC]]

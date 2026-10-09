@@ -17,4 +17,4 @@ aliases:
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[1945-1960 America at the Midcentury]]

@@ -17,4 +17,4 @@ Between Egypt and Israel
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Jimmy Carter]]

@@ -40,4 +40,6 @@ Born to Jewish family in 1926. Was a prominent figure in many different social a
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Beat Generation]]
+- [[1960-1968 The tumultous sixties]]
+- [[American_Poetry_MOC]]

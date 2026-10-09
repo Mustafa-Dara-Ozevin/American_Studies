@@ -21,4 +21,5 @@ Statesman, poet, essayist.
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[American_Poetry_MOC]]
+- [[18th century Neo-Classicism]]

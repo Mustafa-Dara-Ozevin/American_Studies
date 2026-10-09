@@ -37,4 +37,4 @@ Was one of prominent [[American Poetry Colonial Period]]. Come from a succesfull
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[American Poetry Colonial Period]]
