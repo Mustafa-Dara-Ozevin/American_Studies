@@ -23,4 +23,4 @@ aliases:
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Nuclear Diplomacy]]

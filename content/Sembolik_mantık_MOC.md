@@ -12,6 +12,7 @@ ___
 4. [[Önerme Kümesi]]
 5. [[Eşdeğerlik]]
 6. [[içerme]]
+7. [[Mantıksal kurallar]]
 
 Kitaplar:
 - [ ] Graham Priest - Mantık

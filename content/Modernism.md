@@ -18,7 +18,7 @@ Enes Batur Modernist Zihin
 
 # Modernism
 
-as an international art covers many avant-grande styles like surrealism, futurism, Surrealism, Impressionism(only for writing). **Modernism is international**. Fore bearers were Darwin, Nietzsche and Marx, it's intellectual guru was Freud.
+as an international art covers many avant-grande styles like surrealism, futurism, Surrealism, Impressionism(only for writing). **Modernism is international**. Fore bearers were [[Darwin]], [[Nietzsche]] and [[Marx]], it's intellectual guru was Freud.
 
 ## Historical background
 

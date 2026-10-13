@@ -28,7 +28,7 @@ Dramas include:
 - Oragnum for theatre
 - Messingkauf Dialougues
 
-Was a devoted Marxist but unlike other leftist who thurned to realsim he found the social realistic form outdated. He believed it inspired inertia rather than action.
+Was a devoted [[Karl Marx | Marxist]] but unlike other leftist who thurned to realsim he found the social realistic form outdated. He believed it inspired inertia rather than action.
 Art for art = puerlille Indulgence
 
 Advocated "Epic Theater" instead a term borrowed from the director Edwin Piscator.

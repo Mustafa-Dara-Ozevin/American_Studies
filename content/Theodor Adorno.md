@@ -4,7 +4,7 @@ tags:
   - culture
 ---
 
-==The Culture Industry==, a concept developed by ==Theodor Adorno== and Marx Horkheimer, refers to how popular culture (Like movies, music, TV) is produceed in a way that turns art into a business. Hamper critical thinking instead a encourage it. Keep people: passive, distracted and more likely to accept the status quo. 
+==The Culture Industry==, a concept developed by ==Theodor Adorno== and [[Marx]] [[Horkheimer]], refers to how popular culture (Like movies, music, TV) is produceed in a way that turns art into a business. Hamper critical thinking instead a encourage it. Keep people: passive, distracted and more likely to accept the status quo. 
 
 Difference only in appearance not in content
 Re-production value: History, Traditions and habits can be remade and sold.

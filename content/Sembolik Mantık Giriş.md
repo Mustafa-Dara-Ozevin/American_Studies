@@ -114,6 +114,13 @@ p ve q
 Tp = T
 
 
+### Mantığın 3 kuralı
+
+- Özdeşlik: p -> p
+- ~(p ^ ~p)
+- (p v ~p)
+
+
 ---  
 
 ### **Related:**    
