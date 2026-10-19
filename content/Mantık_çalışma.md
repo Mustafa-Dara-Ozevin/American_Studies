@@ -1,12 +1,25 @@
-1. It is not true that if Ron doesn't do his homework then Hermoine will finish it for him
-	1. p = Ron Does his homework
-	2. q = Hermoine will finish it for him
-	3. ~(~p -> q)
-2. Harry will be singed unless he evades the dragon's fiery breath
+1. It is not true that if Ron doesn't do his homework then Hermione will finish it for him
+	1. r => Ron does his homework
+	2. h => Hermione will finish it for him(Ron)
+	3. ~(~r -> h)
+	4. ~r ^ ~h
+~(~r -> h) === ~r ^ ~h
+
+| r h | ~r  | ~h  | (~r -> h) | **~(~r -> h)** | **~r ^ ~h** |
+| --- | --- | --- | --------- | -------------- | ----------- |
+| D D | Y   | Y   | D         | Y              | Y           |
+| D Y | Y   | D   | D         | Y              | Y           |
+| Y D | D   | Y   | D         | Y              | Y           |
+| Y Y | D   | D   | Y         | D              | D           |
+
+
+
+3. Harry will be singed unless he evades the dragon's fiery breath
 	1. p = Harry will be singed
 	2. q = harry evades the dragon's fiery breath
 	3. ~q -> p
-3. (p ^ ~q) v (~p ^ q)
+
+4. (p ^ ~q) v (~p ^ q)
 
 | p q | ~p ~q | (p ^ ~q) | (~p ^ q) | (p ^ ~q) v (~p ^ q) |
 | --- | ----- | -------- | -------- | ------------------- |

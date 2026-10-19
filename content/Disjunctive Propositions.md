@@ -19,4 +19,4 @@ Consist of 2 smaller propositions joined by disjunction. Unlike Grammar in Logic
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Logic_Moc]]

@@ -79,4 +79,4 @@ Porphyria's love: she guessed not how
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Poetry_MOC]]

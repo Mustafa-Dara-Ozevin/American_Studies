@@ -51,6 +51,7 @@ eğer önermenin tersi tutarsızsa kendisi tutarlı
 p -> q
 p
 => q
+{p -> q, p , ~q}
 
 | p q | p -> q | p   | ~q  |
 | --- | ------ | --- | --- |

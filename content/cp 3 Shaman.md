@@ -10,7 +10,7 @@ aliases:
 # cp 3 Shaman  
   
 ## Summary  
-Chapter 3 of the [[Asian_American_Lit_MOC | Asian american lit]] staple [[The woman warrior]] by [[M. Hong Kingston]]. I focuses on the mother's (Brave Orchid) years at the med school and as a doctor.
+Chapter 3 of the [[Asian_American_Lit_MOC | Asian american lit]] staple [[The woman warrior]] by [[M. Hong Kingston]]. I focuses on the mother's ([[Brave Orchid]]) years at the med school and as a doctor.
 ## Notes  
 
 - Subjective narration again
@@ -26,11 +26,11 @@ Ghosts can be read in several ways:
 1. As a supernatural entity in the narration of the Novel
 2. AS a representation of fear and unknown 
 3. as a test of Brave Orchid's courage and Leadership
-4. As Brave Orchid's definition of everything Non-Chinese
+4. As [[Brave Orchid]]'s definition of everything Non-Chinese
 5. As a narrative device which Kingston uses to explore both Chinese and american culture 
 
 
-| Brave Orchid in China               | Brave orchind in America                            |
+| [[Brave Orchid]] in China           | [[Brave Orchid]] in America                         |
 | ----------------------------------- | --------------------------------------------------- |
 | A doctor                            | immigrant laborer                                   |
 | Professional Authority              | Economic Vulnerability                              |

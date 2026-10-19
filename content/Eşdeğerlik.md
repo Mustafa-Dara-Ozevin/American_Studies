@@ -36,4 +36,4 @@ P ^ Q ===  p ^ (p -> q)
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Sembolik_mantık_MOC]]

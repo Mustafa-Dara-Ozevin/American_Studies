@@ -52,6 +52,9 @@ Değili içeriye dağıtımızda terimlerin tersi ile birlikte ana eklemin de te
 
 
 ***p -> q === ~p v q***
+
+**~(p -> q) === p ^ ~q**
+
 [[Eşdeğerlik]] kanıtı:
 
 | p q | ~p  | p -> q | ~ p v q | p -> q <-> ~p v q |
@@ -77,7 +80,31 @@ Değili içeriye dağıtımızda terimlerin tersi ile birlikte ana eklemin de te
 | Y D | Y   | D      | Y       | Y      | D                    |
 | Y Y | D   | D      | Y       | Y      | D                    |
 
+### Dağıtma Kuralı
+
+p ^ (q v r) === ( p ^ q) V (p ^ r)
+
+p v (q ^ r) === ( p v q) ^ (p v r)
+
+p v (q <-> r) === (p v q) <-> (p v r)
+
+[[Eşdeğerlik]] kanıtı:
+
+p v (q <-> r) <-> (p v q) <-> (p v r)
+
+| p q r | q <->r | p v (q<->r) | (p v q) | (p v r) | (p v q) <-> (p v r) |
+| ----- | ------ | ----------- | ------- | ------- | ------------------- |
+| D D D | D      | D           | D       | D       | D                   |
+| D D Y | Y      | D           | D       | D       | D                   |
+| D Y D | Y      | D           | D       | D       | D                   |
+| D Y Y | D      | D           | D       | D       | D                   |
+| Y D D | D      | D           | D       | D       | D                   |
+| Y D Y | Y      | Y           | D       | Y       | Y                   |
+| Y Y D | Y      | Y           | Y       | D       | Y                   |
+| Y Y Y | D      | D           | Y       | Y       | D                   |
+
+- [ ] p -> (q ^ r) === (p->q) ^ (p -> r)
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Sembolik_mantık_MOC]]

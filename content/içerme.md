@@ -47,4 +47,4 @@ p v q, p -> r, q -> r |= r
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Sembolik_mantık_MOC]]

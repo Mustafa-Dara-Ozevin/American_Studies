@@ -3,4 +3,5 @@
 3. [[Characterization pt1]]: [[Dialouge]], [[Appearance]], [[Action]], [[Thought]]
 4. [[Characterization pt2]]
 5. [[9 Char building techniques]]
-6. [[Thomas Pinchen]]
+6. [[Setting]]
+7. [[Thomas Pinchen]]
