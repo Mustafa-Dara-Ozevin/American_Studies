@@ -32,7 +32,7 @@ eğer önermenin tersi tutarsızsa kendisi tutarlı
 3. p v q
 4. p -> r
 5. q -> r
-6. => r
+6. ∴ r
 
 
 
@@ -50,7 +50,7 @@ eğer önermenin tersi tutarsızsa kendisi tutarlı
 
 p -> q
 p
-=> q
+∴ q
 {p -> q, p , ~q}
 
 | p q | p -> q | p   | ~q  |
@@ -62,7 +62,7 @@ p
 Tablo tutarsız çıkarım tutarlıdır
 
 
-P -> q , q => ~p
+P -> q , q ∴ ~p
 
 | p q | p -> q | q   | p   |
 | --- | ------ | --- | --- |

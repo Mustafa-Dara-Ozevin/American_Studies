@@ -4,7 +4,7 @@ tags:
   - history
   - american-history
 ---
-
+x"
 
 North Korea (soviet backed dictator) vs South Korea (U backed dictators)
 Both are threatening to unite the country by force

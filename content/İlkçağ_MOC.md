@@ -3,3 +3,4 @@
 3. [[Sokrates Dönemi Şartlar]]
 4. [[Sofistler]]
 5. [[Sokrates]]
+6. [[Platon]]

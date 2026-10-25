@@ -29,12 +29,24 @@ Bazıları tarafından bir [[Sofistler || Sofist]] olarak görülür ama kendisi
 - [[Sokrates]]'ten önce filozoflar yöntem üzerine çok çalışmamışlardır. [[Sofistler]]'ler Retorik üzerine çalışsalar da bunu bir bilgiye ulaşmak için yapmamıştır. [[Sokrates]]'in diyalektiği ise bilgi için bir ölçüttür.
 - Ontolojik olarak ruhun ve Bilgi(erdem)'in bir varlık karşılığı olduğu iddiasını getirmiştir.
 - [[Sokrates]] hakkında en çok bilgiyi [[Platon]]'un [[Sokratik Diyaloglar]] da denen erken dönem diyaloglarından alırız.
-- [[Aporia]] - Geçitsizlik, diyaloglardaki tüm kanaatlarin yanlış çıkması
+- [[Aporia]] - Deliksizlik/Geçitsizlik, diyaloglardaki tüm kanaatlarin yanlış çıkması
 - [[Sokrates]]: Ruhunla ilgilen, ruhunu düzelt. Mutlu ol
 - Eudaimonia => mutluluk
+- Belli bir konuda Tekhne[^1] sahibi olmak herşeyi bilmek değildir
+- [[Sokrates]] bilgiyle ilgili bir peras[^2] arıyor. Tanım => Bilgiyi sınırılandırma
+- **Sadece bilgi aktarmayı(Malumat) öğretme** saymaz
+- Pozitif Özgürlük => Tözsel bir iyilik var Özgürlük buna uygun davrankatır. Bu kişiden kişiye, Zanaatkardan, siyasetçiye değişebilir. Ama iç tutarlı ve sorgulanmış olmalıdır
+- içsel eğitim
+- Kanunlar doğadan çıkarılmalı ama insan doğası dış çevre değil.
 - [[Ahlaki Entelektüalizm]] 
 - [[Sokrates'in Savunması]]
+
+
+
 ---  
 
 ### **Related:**    
 - [[Sokrates Dönemi Şartlar]]
+
+[1]: Teknik bilgi
+[2]: Sınır
