@@ -28,6 +28,7 @@ Tümdengelimsel ve Tümevarımsal ifadeler. Herhangi bir simge sembol olarak kul
 - p ^ q
 - p ve q ana bileşen, eklem(^) de bir bileşendir
 
+
 ### Değil
 
 | p   | ~p  |
@@ -43,7 +44,7 @@ Tümdengelimsel ve Tümevarımsal ifadeler. Herhangi bir simge sembol olarak kul
 | Y D | Y     |
 | Y Y | Y     |
 
-### Ya da
+### Veya
 
 | p q | p v q |
 | --- | ----- |
@@ -99,7 +100,6 @@ P v q
 | D Y | Y      | D      | Y                   | Y       |
 | Y D | D      | Y      | Y                   | Y       |
 | y y | D      | D      | D                   | D       |
-
 
 
 

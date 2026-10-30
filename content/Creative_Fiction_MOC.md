@@ -4,4 +4,5 @@
 4. [[Characterization pt2]]
 5. [[9 Char building techniques]]
 6. [[Setting]]
-7. [[Thomas Pinchen]]
+7. [[Plot And Structure]]
+8. [[Thomas Pinchen]]

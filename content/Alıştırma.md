@@ -78,6 +78,13 @@ p -> (q ^ r), ~r V q |= p => Geçersiz
 | Y D | D Y   | D      | D        | Y      |
 | Y Y | D D   | D      | D        | D      |
 
+
+
+1. p -> q, q -> r ∴ p -> r
+2. p -> q, q -> r ∴ r -> p
+3. p -> r, q -> r ∴ p <=> q
+4. p -> s, q -> r, p V q ∴ r V s
+5. p -> q, q -> r, r -> p ∴ p ^ q ^ r
 ### Saçmalama
 ((p v q) -> p) ^ ((p v q) -> r) === (p v q) -> (p v r)
 

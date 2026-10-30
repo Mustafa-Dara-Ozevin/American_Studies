@@ -16,6 +16,7 @@ ___
 8. [[Modus Tollens]]
 9. [[Modus Ponens]]
 10. [[Alıştırma]]
+11. [[Mantık Devreleri]]
 
 Kitaplar:
 - [ ] Graham Priest - Mantık

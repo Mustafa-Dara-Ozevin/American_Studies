@@ -41,7 +41,23 @@ Bazıları tarafından bir [[Sofistler || Sofist]] olarak görülür ama kendisi
 - [[Ahlaki Entelektüalizm]] 
 - [[Sokrates'in Savunması]]
 
+### Özet
 
+- Erdem Bilgidir => [[Ahlaki Entelektüalizm]]
+- İrade problemi yok
+- Kötülük yapmak kötülüğüne mağruz kalmaktan daha istenmeyen bir şeydir 
+- Erdem bilgisinin temel amacı kişinin kendi ruhuyla ilgilenmesidir
+- Hedef insani iyi ve insanı mutlulktur. Eudonomia
+- Bilgi zaman ve mekana göre değişmez bir tanımla sabitlenir.
+- Bu bilgi/erden gerçekten var olan bir şeylerdir ve tikel iyiliklerin sebebidir
+- Bilgi ve İnsani Erdem birdir
+- İnsani iyi uzun vadede haz vericidir. Ölçülü haz kötü değildir.
+- Ölçülüğün toplumsal karşılığı adalettir
+- Teleolojik bilgi => Bir şey olduğu halinin niye onun en iyi hali olduğunu açıklamak 
+- Erdem dışsal değil içsel öğretim ile mümkündür
+- İnsan ölcüt değildir, İlahi ölçüt
+- İnsanın sınırlarının keşfedilmesi, insanın kendini bildikçe sınırsızlaşması => Sokratik idealizm
+- İşlevini yerine getirmek => erdem
 
 ---  
 

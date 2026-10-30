@@ -4,3 +4,4 @@
 4. [[Sofistler]]
 5. [[Sokrates]]
 6. [[Platon]]
+7. [[Küçük Sokratesçi Okullar]]
