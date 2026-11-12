@@ -44,7 +44,7 @@ Yapılacaklar:
 | D D D | D             | D     | D     | D                         | D                        |
 | D D Y | D             | D     | D     | D                         | D                        |
 | D Y D | Y             | D     | D     | D                         | D                        |
-| D Y Y | Y             | D     | Y     | Y                         | D                        |
+| D Y Y | Y             | D     | Y     | Y                         | Y                        |
 | Y D D | Y             | D     | D     | D                         | D                        |
 | Y D Y | Y             | Y     | D     | Y                         | D                        |
 | Y Y D | D             | D     | D     | D                         | D                        |
@@ -57,14 +57,14 @@ Yapılacaklar:
 
 | p q r | **p <-> q** | r ^ p | r ^ q | **(r ^ p) <-> (r ^ q)** |     |
 | ----- | ----------- | ----- | ----- | ----------------------- | --- |
-| D D D | D           | D     | D     | D                       | D   |
-| D D Y | D           | Y     | Y     | D                       | D   |
-| D Y D | Y           | D     | Y     | Y                       | D   |
-| D Y Y | Y           | Y     | Y     | D                       | D   |
-| Y D D | Y           | Y     | D     | Y                       | D   |
-| Y D Y | Y           | Y     | Y     | D                       | D   |
-| Y Y D | D           | Y     | Y     | D                       | D   |
-| Y Y Y | D           | Y     | Y     | D                       | D   |
+| D D D | D           | D     | D     | D                       |     |
+| D D Y | D           | Y     | Y     | D                       |     |
+| D Y D | Y           | D     | Y     | Y                       |     |
+| D Y Y | Y           | Y     | Y     | D                       |     |
+| Y D D | Y           | Y     | D     | Y                       |     |
+| Y D Y | Y           | Y     | Y     | D                       |     |
+| Y Y D | D           | Y     | Y     | D                       |     |
+| Y Y Y | D           | Y     | Y     | D                       |     |
 
 ~ (p<->q) === (p^q) v (~p ^ ~q)
 
@@ -74,8 +74,8 @@ Yapılacaklar:
 | --- | ----- | --------- | --------- | ----- | --------- | ----------------- | --- |
 | D D | Y Y   | D         | Y         | D     | Y         | D                 |     |
 | D Y | Y D   | Y         | D         | Y     | Y         | Y                 |     |
-| Y D | D Y   | Y         | D         | Y<br> | Y         | Y                 |     |
-| Y Y | D F   | D         | Y         | Y     | D         | D                 |     |
+| Y D | D Y   | Y         | D         | Y     | Y         | Y                 |     |
+| Y Y | D D   | D         | Y         | Y     | D         | D                 |     |
  
  
  

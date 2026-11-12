@@ -89,7 +89,7 @@ P v q
 | D D | Y   | D      |
 | D Y | Y   | Y      |
 | Y D | D   | D      |
-| Y D | D   | D      |
+| Y Y | D   | D      |
 
 
 ***p <-> q === (p -> q) ^ (q -> p)***
@@ -99,7 +99,7 @@ P v q
 | D D | D      | D      | D                   | D       |
 | D Y | Y      | D      | Y                   | Y       |
 | Y D | D      | Y      | Y                   | Y       |
-| y y | D      | D      | D                   | D       |
+| Y Y | D      | D      | D                   | D       |
 
 
 

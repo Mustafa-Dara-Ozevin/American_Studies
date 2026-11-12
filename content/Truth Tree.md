@@ -1,3 +1,5 @@
+
+
 ---
 title: "Truth Table"
 tags:
@@ -13,30 +15,57 @@ aliases:
 *Briefly summarize the concept here.*  
 ## Notes  
 
- p ∧ q
- p
- q
- o
-satisfiable 
+```tree
+problem: p ∧ q, p ∴ q
+1. p ∧ q  [premise] ✓
+2. p  [premise]
+3. ¬q  [neg-goal]
+4. p  [from 1: ∧]
+5. q  [from 1: ∧]
+× (3, 5)
+verdict: valid (all branches closed ×)
+```
 
-p ∨ q
-¬p
-p   q
-x   o
-satisfaible
 
-p → q
-p
-¬q
-p    ¬q
-o     o
-satisfaible 
+```tree
+problem: p ∨ q, ¬p ∴ q
+1. p ∨ q  [premise] ✓
+2. ¬p  [premise]
+3. ¬q  [neg-goal]
+├─ 4. p  [from 1: ∨]
+│  × (2, 4)
+└─ 5. q  [from 1: ∨]
+   × (3, 5)
+verdict: valid (all branches closed ×)
+```
 
-p → q
-p
-q
-p     ¬q
-o      x
+
+
+```tree
+problem: p → q, p ∴ q
+1. p → q  [premise] ✓
+2. p  [premise]
+3. ¬q  [neg-goal]
+├─ 4. ¬p  [from 1: →]
+│  × (2, 4)
+└─ 5. q  [from 1: →]
+   × (3, 5)
+verdict: valid (all branches closed ×)
+```
+
+
+
+```tree
+problem: p → q, p ∴ ¬q
+1. p → q  [premise] ✓
+2. p  [premise]
+3. ¬¬q  [neg-goal]
+├─ 4. ¬p  [from 1: →]
+│  × (2, 4)
+└─ 5. q  [from 1: →]
+verdict: incomplete
+```
+
 
 
 ### level 2 
