@@ -5,4 +5,5 @@
 5. [[9 Char building techniques]]
 6. [[Setting]]
 7. [[Plot And Structure]]
-8. [[Thomas Pinchen]]
+8. [[Point of View]]
+9. [[Thomas Pinchen]]

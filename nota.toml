@@ -1,0 +1,29 @@
+[vault]
+path = "content"
+assets_dir = "assets"
+books_dirs = ["books", "content/assets/books"]
+ignore_paths = [".obsidian", ".trash", "templates", "private", "Excalidraw"]
+templates_dir = "content/templates"
+
+[logic]
+true_symbol = "D"
+false_symbol = "Y"
+packed_variable_columns = true
+alphabetical_atoms = true
+alpha_first_trees = true
+
+[srs]
+revlog_path = "reviews/revlog.jsonl"
+schedule_path = "reviews/schedule.json"
+desired_retention = 0.90
+new_cards_per_day = 20
+max_reviews_per_day = 200
+day_boundary_hour = 4
+leech_threshold = 8
+bury_siblings = true
+
+[site]
+title = "Amerika'nın Tarihi Yok Ki(!?)"
+base_url = "mustafa-dara-ozevin.github.io/American_Studies"
+out_dir = "public-nota"
+publish_epubs = false

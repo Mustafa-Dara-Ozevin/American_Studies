@@ -18,7 +18,7 @@ Bildungsroman by [[Jack London]].
 - Might lead to identity crisis or confusion
 - Martin is illettrate but it is emphasised to have a special soul => "Keenly sensitive, hopelessly self-conscious, responsive to beauty"
 - Bildungsroman => a special protagonist
-- Oil Painting scene: His first encounter with oil painting. [[Impressionist]]. He is very impressed from far but beauty fades up close. He calls it a **"trick picture"**. Foreshadowing of [[Ruth]]'s beauty fading when he gets close to her
+- Oil Painting scene: His first encounter with oil painting. [[Impressionist]]. He is very impressed from far but beauty fades up close. He calls it a **"ick picture"**. Foreshadowing of [[Ruth]]'s beauty fading when trhe gets close to her
 - Bildungsroman => Often painful charater development. "Coming of age"
 - Künstlerroman => Emergence of artist
 - Percieving thorugh ==likenes and difference==
@@ -28,7 +28,7 @@ Bildungsroman by [[Jack London]].
 - But his _masculinity_ especially neck becomes irrestiable 
 - For the first Martin Eden is attracted to woman without sexual desire on the contrary it is the first time Ruth feels sexual attraction towards somebody
 - "Here was the adventure"
-- talk wiith Noah about Trigonometry => [[Martin Eden]] once against realized how little he knows. And decides to try to conqure this mysterious land of knowledge and adventure
+- talk wiith Noah about Trigonometry => [[Martin Eden]] once again realized how little he knows. And decides to try to conquer this mysterious land of knowledge and adventure
 - No one else has given the the **[[message of immortality]]** to him before
 * Martin becomes more _attentive_ after his encounter with [[Ruth]]
 * For the firs time he starts to notice the indecent life conditions at her sisters home
@@ -49,5 +49,6 @@ Bildungsroman by [[Jack London]].
 
 ---  
 
-### **Related:**    
-- [[Map of Content related to this]]
+### **Related:**   
+- [[Martin Eden w1]]
+- [[Martin Eden w3]]

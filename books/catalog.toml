@@ -1,0 +1,7 @@
+# Nota EPUB Catalog
+# Maps local EPUB filenames to bibliographic metadata and canonical page counts
+# so notes and the published static site can resolve [[Book.epub#p=42]] links
+# even when raw .epub binaries are gitignored.
+
+version = 1
+books = []

@@ -2,6 +2,7 @@
 .gitignore
 node_modules
 public
+public-nota
 prof
 tsconfig.tsbuildinfo
 .obsidian
@@ -9,3 +10,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+/target
+/.nota/
+/books/*.epub
+/report.md

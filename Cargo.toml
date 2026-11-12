@@ -1,0 +1,44 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/nota-core",
+    "crates/nota-logic",
+    "crates/nota-epub",
+    "crates/nota-srs",
+    "crates/nota-editor",
+    "crates/nota-ui",
+    "crates/nota-site",
+    "crates/nota-cli",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Mustafa Dara Özevin"]
+
+[workspace.dependencies]
+anyhow = "1.0"
+thiserror = "2.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+serde_yaml = "0.9"
+toml = "0.8"
+walkdir = "2.5"
+pulldown-cmark = "0.12"
+chrono = { version = "0.4", features = ["serde"] }
+ulid = "1.1"
+blake3 = "1.5"
+zip = { version = "2.2", default-features = false, features = ["deflate"] }
+roxmltree = "0.20"
+clap = { version = "4.5", features = ["derive"] }
+fsrs = "6.6"
+gpui-kit = "0.9.0"
+
+nota-core = { path = "crates/nota-core" }
+nota-logic = { path = "crates/nota-logic" }
+nota-epub = { path = "crates/nota-epub" }
+nota-srs = { path = "crates/nota-srs" }
+nota-editor = { path = "crates/nota-editor" }
+nota-ui = { path = "crates/nota-ui" }
+nota-site = { path = "crates/nota-site" }

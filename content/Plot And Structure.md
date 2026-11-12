@@ -57,7 +57,7 @@ Plot is organization of events into a meaningful sequence.
 ### Key takeawas
 
 - [[Characterization pt2 |Character]] need strong ddesire
-- stablish stales
+- establish stales
 - create conflict that develops
 - Make complications progressively more consequent
 - Connect events through cause and effect

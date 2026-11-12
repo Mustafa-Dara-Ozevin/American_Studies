@@ -10,7 +10,7 @@ aliases:
 # 18th century female voice  
   
 ## Summary  
-The Age more of Reason that of Poetry. Under the influence of such philosophers as  [[John Locke]] and scientists like [[Isaac Newton]], the world become more reasonable and confortable because than [[American Poetry Colonial Period|Puritans]] thought to be.
+The Age of Reason more than that of Poetry. Under the influence of such philosophers as [[John Locke]] and scientists like [[Isaac Newton]], the world became more reasonable and comfortable because than the Puritans thought.
 ## Notes  
 
 - They gained confidence in their ability to understand the *God and his creation* through ***reason and observation***

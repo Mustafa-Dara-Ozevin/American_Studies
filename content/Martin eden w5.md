@@ -65,7 +65,7 @@ aliases:
 
 - He finally receives a check for his article "The ring of Bells". He expected 100 dollars for his 5000 words but instead gets 5 dollars.
 - He emotionally decides he won't write a line ever and do what Ruth and everyone else wanted him to do.
-- All this starvation and disappointment makes him sick and delirious. He can't stop about the 5 dollars
+- All this starvation and disappointment makes him sick and delirious. He can't stop thinking about the 5 dollars
 - He has strange nightmares where he destroys manuscripts with an ax while editor laughs at his 5 dollars. Then he kills Joe with the ax.
 - Joe represents to manual labor and hard work others expect him to take. He sees this as a form of imprisonment. 
 - "The whirlpool" was his second accepted story.
@@ -79,7 +79,7 @@ aliases:
 - Ruth's visit to Eden's neighborhood is a cultural shock for her. 
 - Her attention was drawn to his biceps but this time she did not find it attractive.
 - Martin tells a story of how he was taking care of by a Leper girl in one of his voyages. The story is confession of Eden's hopeless desire of compassion from Ruth. 
-- But Ruth only feels jealously because of Eden's descriptions of the girl.
+- But Ruth only feels jealously because of Eden's descriptions of the girl("She was noble", "she gave me life").
 
 ### Chapter 26
 
@@ -103,7 +103,7 @@ aliases:
 - Eden is pleading Ruth to trust him and and show love to him but Ruth can't see his desperation and is disillusioned
 - [[Henry Wadsworth]] - [[Longfellow the Golden Legend]]:
 > The sea is still and deep
- All things withing the bosom sleep!
+ All things within the bosom sleep!
  a single step, and all is o'er!
  a plunge, a bubble an no more;
  
@@ -112,4 +112,4 @@ aliases:
 ---  
 
 ### **Related:**    
-- [[Map of Content related to this]]
+- [[Martin Eden W6]]

@@ -17,6 +17,7 @@ ___
 9. [[Modus Ponens]]
 10. [[Alıştırma]]
 11. [[Mantık Devreleri]]
+12. [[Truth Tree]]
 
 Kitaplar:
 - [ ] Graham Priest - Mantık
