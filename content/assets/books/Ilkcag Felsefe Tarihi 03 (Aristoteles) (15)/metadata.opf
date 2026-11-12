@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d4ab780-b929-4b6b-b5b5-d753d20a99fa</dc:identifier>
+        <dc:title>İlkçağ Felsefe Tarihi 03 (Aristoteles)</dc:title>
+        <dc:creator opf:file-as="Arslan, Ahmet" opf:role="aut">Ahmet Arslan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-18T21:00:00+00:00</dc:date>
+        <dc:publisher>Alfa Yayınları</dc:publisher>
+        <dc:language>tur</dc:language>
+        <dc:subject>Felsefe Tarihi</dc:subject>
+        <dc:subject>Felsefe</dc:subject>
+        <meta name="calibre:timestamp" content="2026-09-17T21:17:55.350210+00:00"/>
+        <meta name="calibre:title_sort" content="İlkçağ Felsefe Tarihi 03 (Aristoteles)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

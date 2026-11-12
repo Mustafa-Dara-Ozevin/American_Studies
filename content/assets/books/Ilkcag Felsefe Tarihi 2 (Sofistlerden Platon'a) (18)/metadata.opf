@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b333dcc7-9ab2-4187-8227-143383132400</dc:identifier>
+        <dc:title>İlkçağ Felsefe Tarihi 2 (Sofistlerden Platon'a)</dc:title>
+        <dc:creator opf:file-as="Arslan, Ahmet" opf:role="aut">Ahmet Arslan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-08-18T21:00:00+00:00</dc:date>
+        <dc:description>İlkçağ felsefesi denildiğinde tek bir anlayıştan bahsetmek mümkün değildir. Oldukça geniş bir zaman aralığına yayılmış bu dönem, tam tersine, çok farklı filozof ve yaklaşımları içermektedir. Bu bakımdan, kendinden önceki dönemlerle kıyaslandığında, insana ve evrene ilişkin yeni bir kavrayış biçiminin yanı sıra bu yeni tutumun tarihsel olarak farklı ekoller üzerinden çeşitlenmesini de temsil eder.
+Ahmet Arslan’ın beş ciltlik  İlkçağ Felsefe Tarihi serisinin ilk cildinde, başlangıcından Sofistlere kadar olan dönem Yunan felsefesinin ortaya çıkışı, gelişimi ve belli başlı temsilcilerinin görüşleri üzerinden veriliyor. İkinci ciltte Sofistlerden başlayarak Sokrates, küçük Sokratesçi okullar ve Platon felsefesi ele alınıyor. Üçüncü cilt ise tümüyle, hem ortaçağ İslam felsefesi hem de geç dönem Hıristiyan ortaçağ felsefesi tarihi bakımından özel öneme sahip, Müslümanların “İlk Öğretmen” olarak nitelendirdikleri Aristoteles’e ayrılmıştır. Helenistik dönemin Epikurosçuluk, Stoacılık ve Septiklik diye bilinen üç okulu dördüncü cildin konusunu oluşturmakta. Beşinci cilt ise, Roma dönemi içinde yer alan Plotinos ve onun kurucusu olduğu Yeni-Platonculuk ile ilk dönem Hıristiyan Kilise Babalarının felsefi görüşlerine ayrılmıştır.</dc:description>
+        <dc:publisher>Alfa Yayınları</dc:publisher>
+        <dc:language>tur</dc:language>
+        <dc:subject>Felsefe</dc:subject>
+        <meta name="calibre:timestamp" content="2026-09-17T21:17:55.467669+00:00"/>
+        <meta name="calibre:title_sort" content="İlkçağ Felsefe Tarihi 2 (Sofistlerden Platon'a)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

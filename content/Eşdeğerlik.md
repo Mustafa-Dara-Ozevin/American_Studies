@@ -22,7 +22,6 @@ p -> q === ~p v q
 | D Y | Y   | Y      | Y      | D                   |
 | Y D | D   | D      | D      | D                   |
 | Y Y | D   | D      | D      | D                   |
-|     |     |        |        |                     |
 
 P ^ Q ===  p ^ (p -> q)
 
