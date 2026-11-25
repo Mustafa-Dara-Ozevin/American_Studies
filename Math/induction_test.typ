@@ -26,6 +26,15 @@
     + $f(k+1) = 7(7^k) - 7^k + cancel(1-1) $
     + $f(k+1) = 6(7^k)$
 
++ {2^n > n | n >= 1}
+  + Base Case: (n +1) #linebreak()
+    $2^1 > 1$
+  + Induction Hypothesis: #linebreak()
+    $2^k > k$
+  + Induction Step:
+    + $n = k + 1$
+    + $2^(k+1) > k+1$
+    + $2 limits(underbrace(2^k))_(> k) > k + 1, k >= 1 $
 
 = Links 
 #wiki("MATH_MOC")
