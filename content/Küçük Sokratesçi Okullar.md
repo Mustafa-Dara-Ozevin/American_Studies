@@ -4,8 +4,7 @@ tags:
 aliases:
   - "[]"
 ---
-  ---  
-   
+  ---     
 # Küçük Sokratesçi Okullar  
 
 ## Summary  

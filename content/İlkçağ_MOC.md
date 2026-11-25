@@ -4,4 +4,5 @@
 4. [[Sofistler]]
 5. [[Sokrates]]
 6. [[Platon]]
+	1. [[Menon Diyaloğu]]
 7. [[Küçük Sokratesçi Okullar]]

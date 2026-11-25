@@ -10,12 +10,12 @@ aliases:
 # Boroughs of NYC  
   
 ## Summary  
-*Briefly summarize the concept here.*  
+*Briefly summarize the concept here.
 ## Notes  
 
 ### NYC as a Region
 - Northeastern USA. Mouth of Hudson River
-- natural Harbour
+- natural Harbor
 
 - Manhattan 
 - Brooklyn => began as group of dutch settlement
@@ -26,7 +26,8 @@ aliases:
 They were separate before 1989
 
 ### Great Consolidation of 1898
-- Shared Public infa.
+
+- Shared Public infra.
 - Economic Growth
 - Trade
 
@@ -35,7 +36,7 @@ NYC diversity is distributed differently across different Boroughs
 
 
 Brooklyn 99
-Spiderman
+Spider-Man
 Bronx Hip hop
 Gossip Girl
 Wu Tang clan

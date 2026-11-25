@@ -1,0 +1,48 @@
+[site]
+title = "Amerika'nın Tarihi Yok Ki(!?)"
+base_url = "mustafa-dara-ozevin.github.io/American_Studies"
+out_dir = "public"
+
+[vault]
+strip_prefixes = ["content"]
+ignore_dirs = [
+  ".git",
+  ".github",
+  ".obsidian",
+  ".trash",
+  ".quartz-cache",
+  ".nota",
+  "public",
+  "public-nota",
+  "site-gen",
+  "target",
+  "node_modules",
+  "private",
+  "reviews",
+  "templates",
+  "content/templates",
+  "Excalidraw",
+  "books",
+  "Math/_lib",
+  "Math/logic/cizelge",
+]
+ignore_files = [
+  "README.md",
+  "CODE_OF_CONDUCT.md",
+  "LICENSE.txt",
+  "report.md",
+]
+asset_extensions = [
+  "pdf",
+  "png",
+  "jpg",
+  "jpeg",
+  "gif",
+  "webp",
+  "svg",
+  "mp3",
+  "wav",
+  "ogg",
+  "mp4",
+  "webm",
+]

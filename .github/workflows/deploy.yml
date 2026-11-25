@@ -1,4 +1,4 @@
-name: Deploy Nota site to GitHub Pages
+name: Deploy Obsidian + Typst Site to GitHub Pages
 
 on:
   push:
@@ -25,13 +25,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Checkout Nota
-        uses: actions/checkout@v4
-        with:
-          repository: Mustafa-Dara-Ozevin/nota
-          token: ${{ secrets.NOTA_REPO_TOKEN }}
-          path: .nota-src
-
       - name: Install Rust toolchain
         uses: dtolnay/rust-toolchain@stable
 
@@ -43,21 +36,16 @@ jobs:
             ~/.cargo/registry/index/
             ~/.cargo/registry/cache/
             ~/.cargo/git/db/
-            .nota-src/target/
-          key: ${{ runner.os }}-nota-${{ hashFiles('.nota-src/Cargo.lock') }}
+            site-gen/target/
+          key: ${{ runner.os }}-site-gen-${{ hashFiles('site-gen/Cargo.lock') }}
           restore-keys: |
-            ${{ runner.os }}-nota-
+            ${{ runner.os }}-site-gen-
 
-      - name: Install Linux GUI/Build Dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pkg-config libfontconfig1-dev libfreetype6-dev libzstd-dev libx11-dev libxcb1-dev libxkbcommon-dev libxkbcommon-x11-dev libwayland-dev libvulkan-dev libssl-dev
+      - name: Build Site Generator
+        run: cargo build --release --manifest-path site-gen/Cargo.toml --locked
 
-      - name: Build Nota CLI
-        run: cargo build --release --manifest-path .nota-src/Cargo.toml -p nota-cli --locked
-
-      - name: Build Static Site with Nota
-        run: .nota-src/target/release/nota build --vault content --out public
+      - name: Build Static Site
+        run: site-gen/target/release/nota-site-gen build --vault . --out public --config site.toml
 
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3

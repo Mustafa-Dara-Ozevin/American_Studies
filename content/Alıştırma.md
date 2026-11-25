@@ -81,10 +81,24 @@ p -> (q ^ r), ~r V q |= p => Geçersiz
 
 
 1. p -> q, q -> r ∴ p -> r
+
+| p q r | p -> q | q -> r | p -> r | p !-> r |
+| ----- | ------ | ------ | ------ | ------- |
+| D D D | D      | D      | D      | Y       |
+| D D Y | D      | Y      | Y      | D       |
+| D Y D | Y      | D      | D      | Y       |
+| D Y Y | Y      | D      | Y      | D       |
+| Y D D | D      | D      | D      | Y       |
+| Y D Y | D      | Y      | D      | Y       |
+| Y Y D | D      | D      | D      | Y       |
+| Y Y Y | D      | D      | D      | Y       |
+
+
 2. p -> q, q -> r ∴ r -> p
 3. p -> r, q -> r ∴ p <=> q
 4. p -> s, q -> r, p V q ∴ r V s
 5. p -> q, q -> r, r -> p ∴ p ^ q ^ r
+6. ~(p <-> q), p ^ q ∴ ~p v ~q
 ### Saçmalama
 ((p v q) -> p) ^ ((p v q) -> r) === (p v q) -> (p v r)
 

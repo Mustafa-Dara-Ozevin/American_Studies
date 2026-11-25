@@ -4,3 +4,5 @@
 4. [[Regions_presentetions_week_3]]
 5.  [[Regions_presentetions_week_4]]
 6.  [[Regions_presentetions_week_5]]
+7. [[Regions_presentetions_week_6]]
+8. [[Regions_presentetions_week_7]]

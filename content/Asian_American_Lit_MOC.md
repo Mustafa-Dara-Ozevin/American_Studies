@@ -3,3 +3,4 @@
 3. [[Minari]]
 4. [[History of Chinese immigration to America]] (To be filled)
 5. [[The woman warrior]]
+6. [[Typical American]]

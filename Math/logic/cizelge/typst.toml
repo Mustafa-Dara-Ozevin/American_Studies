@@ -1,0 +1,7 @@
+[package]
+name = "cizelge"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Mustapha"]
+license = "MIT"
+description = "Semantic tableau (çözümleyici çizelge) helper package for Typst."

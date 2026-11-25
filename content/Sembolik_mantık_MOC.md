@@ -18,6 +18,7 @@ ___
 10. [[Alıştırma]]
 11. [[Mantık Devreleri]]
 12. [[Truth Tree]]
+13. [[tumel_evet.pdf]]
 
 Kitaplar:
 - [ ] Graham Priest - Mantık
