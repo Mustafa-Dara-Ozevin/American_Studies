@@ -966,7 +966,10 @@ fn render_shell(
 </head>
 <body>
   <header class="nota-topbar">
-    <a class="nota-brand" href="{prefix}index.html">{site_title}</a>
+    <div class="nota-topbar-left">
+      <button id="nota-menu-btn" class="nota-menu-btn" aria-expanded="false" aria-controls="nota-explorer" onclick="toggleNav()">☰ Notes</button>
+      <a class="nota-brand" href="{prefix}index.html">{site_title}</a>
+    </div>
     <div class="nota-controls">
       <input id="nota-search" type="search" placeholder="Notlarda ara..." oninput="filterNav(this.value)" />
       <button onclick="toggleTheme()">Dark / Light</button>
@@ -974,7 +977,7 @@ fn render_shell(
     </div>
   </header>
   <div class="nota-layout">
-    <nav class="nota-explorer">
+    <nav id="nota-explorer" class="nota-explorer">
       <h3>Notes ({note_count})</h3>
       <ul id="nota-nav-list">
         {nav_items_html}
@@ -995,8 +998,18 @@ fn render_shell(
       const root = document.documentElement;
       root.dataset.theme = root.dataset.theme === 'light' ? 'dark' : 'light';
     }}
+    function toggleNav(forceOpen) {{
+      const open = typeof forceOpen === 'boolean'
+        ? document.body.classList.toggle('nav-open', forceOpen)
+        : document.body.classList.toggle('nav-open');
+      const btn = document.getElementById('nota-menu-btn');
+      if (btn) btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }}
     function filterNav(q) {{
       const needle = q.toLocaleLowerCase('tr-TR');
+      if (needle.trim().length > 0 && window.innerWidth <= 1024) {{
+        toggleNav(true);
+      }}
       for (const li of document.querySelectorAll('.nota-explorer li')) {{
         li.style.display = li.textContent.toLocaleLowerCase('tr-TR').includes(needle) ? '' : 'none';
       }}
@@ -1060,6 +1073,11 @@ body {
   background: var(--bg-alt);
   border-bottom: 1px solid var(--border);
 }
+.nota-topbar-left {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
 .nota-brand {
   color: var(--accent);
   font-weight: 700;
@@ -1067,7 +1085,7 @@ body {
   font-size: 1.15rem;
 }
 .nota-controls { display: flex; gap: 0.5rem; flex-wrap: wrap; }
-.nota-controls input, .nota-controls button {
+.nota-controls input, .nota-controls button, .nota-menu-btn {
   background: var(--bg);
   color: var(--fg);
   border: 1px solid var(--border);
@@ -1075,6 +1093,7 @@ body {
   padding: 0.35rem 0.65rem;
   cursor: pointer;
 }
+.nota-menu-btn { display: none; }
 .nota-layout {
   display: grid;
   grid-template-columns: 260px minmax(0, 1fr) 260px;
@@ -1083,10 +1102,8 @@ body {
   margin: 0 auto;
   padding: 1.5rem;
 }
-@media (max-width: 1024px) {
-  .nota-layout { grid-template-columns: minmax(0, 1fr); }
-  .nota-explorer, .nota-sidebar { max-height: none; }
-}
+.nota-article { min-width: 0; overflow-wrap: break-word; }
+pre { overflow-x: auto; max-width: 100%; }
 body.reader-mode .nota-explorer, body.reader-mode .nota-sidebar { display: none; }
 body.reader-mode .nota-layout { grid-template-columns: minmax(0, 860px); justify-content: center; }
 .nota-explorer, .nota-sidebar {
@@ -1173,7 +1190,7 @@ a:hover, .nota-wikilink:hover { text-decoration: underline; }
   background: #fff;
 }
 .nota-embed { max-width: 100%; height: auto; border-radius: 4px; }
-table { border-collapse: collapse; margin: 1rem 0; width: auto; }
+table { display: block; overflow-x: auto; max-width: 100%; border-collapse: collapse; margin: 1rem 0; width: auto; }
 th, td { border: 1px solid var(--border); padding: 0.4rem 0.75rem; text-align: center; }
 th { background: var(--bg-alt); }
 strong { color: #e0af68; }
@@ -1181,6 +1198,34 @@ em { color: #bb9af7; }
 del, s { color: #f7768e; text-decoration-color: #f7768e; }
 code { color: #9ece6a; background: var(--bg-alt); padding: 0.1em 0.35em; border-radius: 3px; }
 mark { background: rgba(224, 175, 104, 0.28); color: #fff3c4; padding: 0 0.25em; border-radius: 3px; }
+@media (max-width: 1024px) {
+  .nota-topbar { padding: 0.6rem 1rem; gap: 0.5rem; }
+  .nota-menu-btn { display: inline-flex; align-items: center; gap: 0.35rem; }
+  .nota-controls { width: 100%; }
+  .nota-controls input { flex: 1 1 140px; min-width: 0; }
+  .nota-layout {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 1rem;
+    gap: 1rem;
+  }
+  .nota-explorer {
+    display: none;
+    max-height: 60vh;
+    overflow-y: auto;
+    background: var(--bg-alt);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+  }
+  body.nav-open .nota-explorer { display: block; }
+  .nota-sidebar {
+    max-height: none;
+    border-top: 1px solid var(--border);
+    padding-top: 1rem;
+  }
+  .nota-pdf-embed iframe { height: 65vh; min-height: 380px; }
+  .nota-pdf-frame { height: 70vh; min-height: 440px; }
+}
 "#;
 
 #[cfg(test)]
@@ -1233,6 +1278,11 @@ mod tests {
             .join("Math/Pumping Lemma/exercise.pdf")
             .exists());
         assert!(out_dir.join("index.html").exists());
+        let math_moc_html = fs::read_to_string(out_dir.join("MATH_MOC.html")).unwrap();
+        assert!(math_moc_html.contains("id=\"nota-menu-btn\""));
+        assert!(math_moc_html.contains("toggleNav("));
+        let css = fs::read_to_string(out_dir.join("styles.css")).unwrap();
+        assert!(css.contains("body.nav-open .nota-explorer"));
 
         let _ = fs::remove_dir_all(&tmp);
     }
